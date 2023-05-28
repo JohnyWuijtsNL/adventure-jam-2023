@@ -1,0 +1,43 @@
+title: introductionDialogue
+tags: voice:need revision:none type:cutscene
+---
+Mage: Time for a practical exercise, Apprentice!
+Player: Hum...
+Mage: Do not look at me like that, this is not a typical book.
+Player: Apologies, Teacher. I did not mean to doubt you.
+Mage: Apology accepted.
+Mage: Now, this book is an object of power, one of the most common ones.
+Mage: Generations ago, our forebeards found a way to imprint the power of magical creatures into paper.
+Mage: Inside those pages, the essence of these powers remains, when the original creatures have long past away.
+Player: How is it sustained?
+Mage: Oh, Apprentice, you have much to learn before you can comprehend the answer to this question!
+Mage: For now, please focus on learning how to use the book.
+Player: Of course, Teacher.
+Mage: Most pages describe a creature. By reading the incantation on the page, you will harness the corresponding power.
+Player: Is it similar to a spell, then?
+Mage: In a way. You could think of it as a precast spell, that you only need to direct onto a target.
+Mage: Your ability to shape the magic with intent will be limited.
+Mage: But in exchange, you will not need to power the incantation from your own reserves.
+Player: How many incantations does the book hold?
+Mage: This one specifically contains five creatures... or rather, five power imprints.
+Mage: Most usually enclose between three and twelve incantations, depending on the creatures used to create them.
+Mage: Nevertheless, do not plan on relying on them for everything, Apprentice!
+Mage: The Guild has only ever managed to capture the power of two dozen species using this method.
+Player: So no matter how many books have been made, we only have access to twenty-four different self-fuelling incantations?
+Mage: Twenty-five, to be exact. But essentially, that is correct.
+Mage: Are you ready to make your first attempt?
+Player: I am ready.
+Mage: Very well. Your task is to destroy this pile of battered grimoires on the lawn, and leave the grass as pristine as it currently is.
+Mage: I suspect you will need to use three incantations from the book to accomplish this.
+Mage: I will be in my office when you are done.
+Player: Thank you, Teacher. I will try my best.
+Mage: Oh, I do not expect you to encounter difficulties.
+Mage: Just make sure not to mangle the lawn, or I will have you elbow deep in manure brewing fertiliser for the foreseeable future.
+===
+
+title: unsealFireDemon
+tags: voice:need revision:need type:cutscene
+---
+Fire Demon: Yeepee, freedom!
+Player: Fie! You're actually alive!
+===
