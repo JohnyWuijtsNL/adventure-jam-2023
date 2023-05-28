@@ -1,7 +1,7 @@
 title: oilCan
 tags: voice:need revision:need type:bark
 ---
-<<if visited(oilCan)>>
+<<if visited("oilCan")>>
   Player: A can of oil, great fire starter.
 <<else>>
   Player: I wonder if it would work to deactivate water runes.
