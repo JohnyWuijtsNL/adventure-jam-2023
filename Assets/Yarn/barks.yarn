@@ -1,0 +1,15 @@
+title: oilCan
+tags: voice:need revision:need type:bark
+---
+<<if visited("oilCan")>>
+  Player: A can of oil, great fire starter.
+<<else>>
+  Player: I wonder if it would work to deactivate water runes.
+<<endif>>
+===
+
+title: UruzRunesFireDemonPage
+tags: voice:need revision:need type:bark
+---
+Player: Ah, those are Uruz runes, most likely representing water.
+===
