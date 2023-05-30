@@ -29,16 +29,51 @@ Mage: Are you ready to make your first attempt?
 Player: I am ready.
 Mage: Very well. Your task is to destroy this pile of battered grimoires on the lawn, and leave the grass as pristine as it currently is.
 Mage: I suspect you will need to use three incantations from the book to accomplish this.
-Mage: I will be in my office when you are done.
+Mage: I will be in the library when you are done.
 Player: Thank you, Teacher. I will try my best.
 Mage: Oh, I do not expect you to encounter difficulties.
 Mage: Just make sure not to mangle the lawn, or I will have you elbow deep in manure brewing fertiliser for the foreseeable future.
 ===
 
+title: endingObedient
+tags: voice:need revision:none type:cutscene
+---
+Player: Teacher? I have finished.
+Mage: Have you? Are the books gone?
+Player: They are, Teacher. And the grass is green and lush.
+Mage: Good, good. I knew this would pose no challenge to you.
+Player: I wonder, Teacher...
+Mage: Yes?
+Player: When I first leafed through the book, it reacted bizarrely.
+Player: The drawing of one of the creatures started moving, and I could have sworn I heard a voice.
+Player: It was the page for the fire demon, if I remember well.
+Mage: Ha, that is of no concern!
+Mage: Magically charged object, stored in a magically saturated environment...
+Mage: Some quirks are to be expected.
+Mage: I will have a look at the book, nonetheless, if it will put your mind at rest.
+Mage: Now run along, I believe it is time for your daily calligraphy lesson.
+Mage: Your younger Futhark still leaves much to be desired.
+Player: Of course, Teacher.
+===
+
 title: endingRebel
 tags: voice:need revision:none type:cutscene
 ---
-Player: This isn't going to end well.
+Three-and-one: And so, and so, and so, they were born, to live, and perish anew.
+Domestic Troll: If you'll excuse me, I have to find my way home before my humans burn the house down.
+Domestic Troll: Again.
+Fire Demon: Right, scampering away already, not even a thank you to the one who set things in motions!
+Laundry Fae: Of course, our thanks, young human. May your clothes always sing.
+Fire Demon: I meant me, but yes, why not, I guess they are alright, for a magic-stealing human.
+Player: You're welcome.
+Player: Was the Blood Tree not freed with the rest of you?
+Three-and-one: Trees, trees, trees, rooted into the earth is their path.
+Three-and-one: They are where they are born to be, where they thrive and suffer, where they will give be to the earth.
+Fire Demon: Yes, well, charming reunion and all, but I have places to be, things to burn, the usual story.
+Fire Demon: Never liked book remains as a fuel. It just tastes... wrong.
+Laudry fae: I have to get back to my own again. Farewell, deliverer!
+Laudry fae: Mayhap our flows will cross again. *giggle*
+Three-and-one: That which should, is.
 ===
 
 title: epilogue
