@@ -1,15 +1,15 @@
-title: oilCan
+﻿title: oilCan
 tags: voice:need revision:need type:bark
 ---
 <<if visited("oilCan")>>
-  Player: A can of oil, great fire starter.
+  Player: A can of oil, great fire starter. #line:02bce14 
 <<else>>
-  Player: I wonder if it would work to deactivate water runes.
+  Player: I wonder if it would work to deactivate water runes. #line:02dd6a9 
 <<endif>>
 ===
 
 title: UruzRunesFireDemonPage
 tags: voice:need revision:need type:bark
 ---
-Player: Ah, those are Uruz runes, most likely representing water.
+Player: Ah, those are Uruz runes, most likely representing water. #line:083ae6b 
 ===
