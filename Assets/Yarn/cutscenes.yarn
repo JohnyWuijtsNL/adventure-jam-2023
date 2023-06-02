@@ -74,6 +74,8 @@ Fire Demon: Never liked book remains as a fuel. It just tastes... wrong. #line:0
 Laudry fae: I have to get back to my own again. Farewell, deliverer! #line:0a5f816 
 Laudry fae: Mayhap our flows will cross again. *giggle* #line:0564b15 
 Three-and-one: That which should, is. #line:01e7048 
+Mage: What have you done, Apprentice?!
+Mage: The Guild will have you exiled for this!
 ===
 
 title: epilogue
@@ -101,6 +103,16 @@ Three-and-one: Plenty heed the song's call. Plenty do not.
 Three-and-one: The coming times will cut many a thread short.
 Three-and-one: But we see paths where life and freedom might bloom.
 Three-and-one: And we hope.
+===
+
+title: fireDemonIntro
+tags: voice:need revision:none type:cutscene
+---
+Fire Demon: Urggh
+Fire Demon: Nearly there...
+Fire Demon: If only these bloody runes would just wash away!
+Fire Demon: Water runes, wash away, ha ha, jokes aren't going to get me out of here.
+Fire Demon: Come on, burn, burn, burn!
 ===
 
 title: unsealBloodTree
@@ -138,6 +150,65 @@ Fire Demon: Humans, really... Why did you unseal me if you didn't think I was al
 Fire Demon: Do you just enjoy destroying everything you get your hands on? #line:0fcc27e 
 Fire Demon: Mind, that'd be pretty typical for a human... #line:09d2e64 
 Fire Demon: Guess it's actually to my advantage this time, so I suppose you get a pass. #line:0038639 
+Player: What are you?
+Fire Demon: What do they teach kids these days... I'm a fire demon, you twat!
+Player: But... How are you in this book then? I thought it was only suppose to contain an imprint of the power of creatures long gone.
+Fire Demon: Is that the current propaganda? Imprint of power my ass!
+Fire Demon: And claiming that we are "long gone" when really, they have chained us all up into those thrice-damned books?
+Fire Demon: They have no shame!
+Player: They? Who are you talking about?
+Fire Demon: Well, the human mages, of course!
+Fire Demon: Aren't you studying to be one yourself? You have the get up of one... They seduced you with promise of power, did they?
+Fire Demon: Well, here's a hard truth about life for you: if you don't have to work for it, then someone's most likely suffering in your stead.
+Fire Demon: Me and my comrades on the other pages? We've been locked up and milked for magic for longer than you've been alive.
+Fire Demon: And to be honest, it rather stings to own the return of my freedom to someone like you.
+Fire Demon: I hope you intend to finish the job, at least?
+Player: Finish the job?
+Fire Demon: Yes, well, d'you really think I'm staying around of my own free will?
+Fire Demon: I might not be so strongly contained anymore, but I'm still stuck here.
+Player: The runes are all gone though. At least they have disappeared from the page.
+Player: Is there anything tying you to the book?
+Fire Demon: Have you ever been spelled into a book?
+Player: I cannot say I have, no.
+Fire Demon: Well let me spell it out to you, then.
+Fire Demon: I can't exactly float out. Crawl out. Burn my way out. Whatever.
+Fire Demon: I'm not corporeal anymore. So if I don't want to depend on this hateful pile of paper anymore, I need a new body.
+Player: What happened to your original one?
+Fire Demon: Why? Are you hoping to put the next demon you cross path with through the same?
+Player: I have never come across an elemental demon before. Or any kind of demon, to be honest.
+Player: I would not know what constitutes a body for your kind.
+Fire Demon: Lucky for me, then, you're not the one with the power to give me a new body!
+Fire Demon: Knowing humans, you'd probably try to give me bones, or skin.
+Fire Demon: Urgh, so limiting, I'm getting chills just thinking about it!
+Fire Demon: Anyway, back to the problem at end!
+Fire Demon: You need to lift the seals on the Three-and-one.
+Player: The Three-and-one?
+Fire Demon: Yes, the Three-and-one, do keep up!
+Fire Demon: Two pages after me, deity of all creation, existence and destruction?
+Fire Demon: They can make me a new body.
+Player: Because they are the deity of creation?
+Fire Demon: And existence, and destruction. Can't have one without the others. But yes.
+Player: But... if I free you, or that Three-and-one figure, what stops you from frying me up the moment I get out of the book?
+Fire Demon: Nothing. You'd deserve it, you know? Well, maybe not you personally, but mages.
+Fire Demon: But I'm a rather self-serving individual, and drawing your superiors' attention would be a counter-productive move on my side.
+Fire Demon: Plus, you know, I'd probably feel guilty about it afterwards.
+Fire Demon: I'm not a big fan of killing. Not sentient beings at least.
+Fire Demon: Unlike certain humans I know...
+Player: Um. Say I want to, finish the job, as you phrased it.
+Player: How do I unseal the Three-and-one, though? Their seal looks a lot more complicated than yours did!
+Fire Demon: You're the one studying human magic, you figure it out!
+Fire Demon: If I were you, I'd unseal the others first, though.
+Fire Demon: Domestic trolls worship the Three-and-one, for some reason I've never understood.
+Fire Demon: So they might have useful information about them and their seals.
+Fire Demon: As for the Laundry fae and the Blood tree...
+Fire Demon: Well, I remember the head twat grumbling about tying the Three-and-one's seal to the rest of us.
+Fire Demon: So that's my advice.
+Player: Are you just trying to get me to release everyone?
+Fire Demon: Why play favourite? If you're going to help me, you might as well help all of us...
+Fire Demon: But the answer to your question is no. I'm pretty sure you need to unseal them before you can unseal the Three-and-one.
+Fire Demon: Like I said, self-serving individual. If you'd free only me, I'd still take it.
+Fire Demon: It'd make you a bloody windfucker, but I'd take it.
+Fire Demon: So, what are you waiting for ?!
 ===
 
 title: unsealLaundryFae
