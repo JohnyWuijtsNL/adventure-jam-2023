@@ -84,16 +84,6 @@ tags: voice:need revision:none type:bark
 <<endif>>
 ===
 
-title: uruzFireDemon
-tags: voice:need revision:none type:bark
----
-<<if not visited("uruzFireDemon")>>
-  Player: This Uruz probably stands for 'water' here.
-<<else>>
-  Player: I wonder what I could use to deactivate those. Maybe something that catches fire even when wet?
-<<endif>>
-===
-
 title: dialPuzzle
 tags: voice:need revision:none type:bark
 ---
@@ -274,46 +264,6 @@ tags: voice:need revision:need type:bark
 <<endif>>
 ===
 
-title: kaunanBloodTree
-tags: voice:need revision:none type:bark
----
-<<if $sealedFireDemon>>
-  Player: Kaunan is not an auspicious rune.
-<<else>>
-  jump kaunanBloodTreeUnsealedFireDemon
-<<endif>>
-===
-
-title: kaunanBloodTreeUnsealedFireDemon
-tags: voice:need revision:none type:bark
----
-<<if not visited("kaunanBloodTreeUnsealedFireDemon")>>
-  Player: Kaunan is most often used for death. I doubt that was the intention here.
-<<else>>
-  Player: Kaunan is also about burning, and illness. I suppose both would be very fitting to seal a blood tree.
-<<endif>>
-===
-
-title: peordBloodTree
-tags: voice:need revision:none type:bark
----
-<<if $sealedFireDemon>>
-  Player: That's Peord, but I don't remember its exact meanings.
-<<else>>
-  jump peordBloodTreeUnsealedFireDemon
-<<endif>>
-===
-
-title: peordBloodTreeUnsealedFireDemon
-tags: voice:need revision:none type:bark
----
-<<if not visited("peordBloodTreeUnsealedFireDemon")>>
-  Player: I should probably consult a rune index to refresh my memory about Peord runes.
-<<else>>
-  Player: I think Peord is often fuelled by music, in rituals...
-<<endif>>
-===
-
 title: honey
 tags: voice:need revision:none type:bark
 ---
@@ -323,16 +273,6 @@ tags: voice:need revision:none type:bark
   Player: Oh good, this looks like honey!
 <<else>>
   Player: I suppose I need to find the right space to use this word in.
-<<endif>>
-===
-
-title: naudhizDomesticTroll
-tags: voice:need revision:none type:bark
----
-<<if $numberDeactivatedNaudhiz == 0>>
-  Player: I know this rune! It's Naudhiz, the rune of bodily needs, unfulfilled desires, and hunger.
-<<else>>
-  Player: It looks like each rune will require a different object to deactivate.
 <<endif>>
 ===
 
@@ -347,125 +287,5 @@ tags: voice:need revision:none type:bark
   Player: This seems to be working, but I need more thread to weave together.
 <<else>>
   Player: I am getting there! It looks like six threads will be enough to cmplete the fabric.
-<<endif>>
-===
-
-title: ansuzLaundryFae
-tags: voice:need revision:none type:bark
----
-<<if $sealedFireDemon>>
-  Player: This is Ansuz, rune of godly power.
-<<else>>
-  jump ansuzLaundryFaeUnsealedFireDemon
-<<endif>>
-===
-
-title: ansuzLaundryFaeUnsealedFireDemon
-tags: voice:need revision:none type:bark
----
-<<if not visited("ansuzLaundryFaeUnsealedFireDemon")>>
-  Player: I really do not see what godly power has to do with this fae.
-<<else>>
-  Player: Maybe I should check if Ansuz has other significations.
-<<endif>>
-===
-
-title: eihwazLaundryFae
-tags: voice:need revision:none type:bark
----
-<<if $sealedFireDemon>>
-  Player: Something like Eidhiz. Weisaz?
-<<else>>
-  jump eihwazLaundryFaeUnsealedFireDemon
-<<endif>>
-===
-
-title: eihwazLaundryFaeUnsealedFireDemon
-tags: voice:need revision:none type:bark
----
-<<if not visited("eihwazLaundryFaeUnsealedFireDemon")>>
-  Player: So many runes to remember... I have no idea what this one is.
-<<else>>
-  Player: I might need to look this rune up.
-<<endif>>
-===
-
-title: berkananLaundryFae
-tags: voice:need revision:none type:bark
----
-<<if $sealedFireDemon>>
-  Player: Berkanan is often used in blessing rituals.
-<<else>>
-  jump berkananLaundryFaeUnsealedFireDemon
-<<endif>>
-===
-
-title: berkananLaundryFaeUnsealedFireDemon
-tags: voice:need revision:none type:bark
----
-<<if not visited("berkananLaundryFaeUnsealedFireDemon")>>
-  Player: The fae does look young, but somehow I do not think that was Berkanan's intended use.
-<<else>>
-  Player: I vaguely remember Berkanan having other meanings, unrelated to birth or age...
-<<endif>>
-===
-
-title: isazThreeAndOne
-tags: voice:need revision:none type:bark
----
-<<if $sealedLaundryFae>>
-  Player: Isaz.
-<<else>>
-  jump isazThreeAndOneUnsealedLaundryFae
-<<endif>>
-===
-
-title: isazThreeAndOneUnsealedLaundryFae
-tags: voice:need revision:none type:bark
----
-<<if not visited("isazThreeAndOneUnsealedLaundryFae")>>
-  Player: Isaz, isaz, isaz... Crikey, its meaning keep escaping me!
-<<else>>
-  Player: I only recall that it is one of the rare runes with a single signification.
-<<endif>>
-===
-
-title: berkananThreeAndOne
-tags: voice:need revision:none type:bark
----
-<<if $sealedLaundryFae>>
-  Player: Berkanan is often used in blessing rituals.
-<<else>>
-  jump berkananThreeAndOneUnsealedFLaundryFae
-<<endif>>
-===
-
-title: berkananThreeAndOneUnsealedLaundryFae
-tags: voice:need revision:none type:bark
----
-<<if not visited("berkananThreeAndOneUnsealedLaundryFae")>>
-  Player: Berkanan is a run of birth and youth.
-<<else>>
-  Player: I probably need something opposed to birth or creation to deactivate Berkanan. Not death, though...
-<<endif>>
-===
-
-title: laguzThreeAndOne
-tags: voice:need revision:none type:bark
----
-<<if $sealedLaundryFae>>
-  Player: Laguz.
-<<else>>
-  jump laguzThreeAndOneUnsealedFLaundryFae
-<<endif>>
-===
-
-title: laguzThreeAndOneUnsealedLaundryFae
-tags: voice:need revision:none type:bark
----
-<<if not visited("laguzThreeAndOneUnsealedLaundryFae")>>
-  Player: Laguz is water, fluidity, and life.
-<<else>>
-  Player: Laguz probably stands for life, here. At least it seems much more coherent than water.
 <<endif>>
 ===
