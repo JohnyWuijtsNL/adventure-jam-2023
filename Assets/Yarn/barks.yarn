@@ -1,15 +1,471 @@
-title: oilCan
-tags: voice:need revision:need type:bark
+﻿title: rock
+tags: voice:need revision:none type:bark
 ---
-<<if visited("oilCan")>>
-  Player: A can of oil, great fire starter.
+Player: A good, solid rock.
+===
+
+title: ashes
+tags: voice:need revision:none type:bark
+---
+Player: I've heard that ashes make the darkest paint.
+===
+
+title: fruit
+tags: voice:need revision:none type:bark
+---
+Player: This fruit looks tasty.
+===
+
+title: holeyShoe
+tags: voice:need revision:none type:bark
+---
+Player: This shoe has seen better days.
+===
+
+title: petals
+tags: voice:need revision:none type:bark
+---
+Player: Velvety petals, the kind that makes you want to touch.
+===
+
+title: hawthorn
+tags: voice:need revision:none type:bark
+---
+Player: Pretty much every part of an hawthorn bush is edible: berries, flowers and leaves each have their use.
+===
+
+title: heather
+tags: voice:need revision:none type:bark
+---
+Player: I've always like heather. It's a soothing plant.
+===
+
+title: thread
+tags: voice:need revision:none type:bark
+---
+Player: It's both resistant and soft, I bet it would make for excellent fabric.
+===
+
+title: humanBaby
+tags: voice:need revision:none type:bark
+---
+Player: I suppose it represent birth. It still feels wrong in the midst of descriptions of murder and carnage.
+===
+
+title: crow
+tags: voice:need revision:none type:bark
+---
+Player: Crows creep me out, they always feel like they know too much.
+===
+
+title: brokenJarOfJam
+tags: voice:need revision:none type:bark
+---
+Player: I can use the jam now!
+===
+
+title: wood
+tags: voice:need revision:none type:bark
+---
+<<if not visited("wood")>>
+  Player: A pile of firewood.
 <<else>>
-  Player: I wonder if it would work to deactivate water runes.
+  Player: This wood would probably burn well, if I can find a flame to get the fire started.
 <<endif>>
 ===
 
-title: UruzRunesFireDemonPage
+title: roastedCorpse
+tags: voice:need revision:none type:bark
+---
+<<if not visited("roastedAnimal")>>
+  Player: Some poor soul got properly roasted here.
+<<else>>
+  Player: I suppose this is technically edible, but I would have to be in a disastrous situation to even consider it.
+<<endif>>
+===
+
+title: uruzFireDemon
+tags: voice:need revision:none type:bark
+---
+<<if not visited("uruzFireDemon")>>
+  Player: This Uruz probably stands for 'water' here.
+<<else>>
+  Player: I wonder what I could use to deactivate those. Maybe something that catches fire even when wet?
+<<endif>>
+===
+
+title: dialPuzzle
+tags: voice:need revision:none type:bark
+---
+<<if not visited("dialPuzzle")>>
+  Player: This looks like some sort of mechanism.
+<<else>>
+  Player: The instrument drawings are probably tied to the music I hear. Maybe I need to cover some, or all of the them?
+<<endif>>
+===
+
+title: paralyticMushroom
+tags: voice:need revision:none type:bark
+---
+<<if not visited("paralyticMushroom")>>
+  Player: Apparently, this species of paralytic mushroooms lives in symbiosis with blood trees.
+<<else>>
+  Player: I have read in a symbolism book that stillness is the opposite of birth and creation. Interesting symbiosis for a tree born from death.
+<<endif>>
+===
+
+title: wordFoxglove
+tags: voice:need revision:none type:bark
+---
+<<if not visited("wordFoxglove")>>
+  Player: Foxglove.
+<<else>>
+  Player: Maybe there's somewhere I can use that to make foxglove grow?
+<<endif>>
+===
+
+title: jarOfJam
+tags: voice:need revision:none type:bark
+---
+<<if not visited("jarOfJam")>>
+  Player: A jar of jam. The lid is stuck.
+<<else>>
+  Player: The lid of that thing is not moving. I need to find another way to open it if I have need for the jam.
+<<endif>>
+===
+
+title: carrots
+tags: voice:need revision:none type:bark
+---
+<<if not visited("carrots")>>
+  Player: A bunch of carrot.
+<<else>>
+  Player: I do not see any other use for carrots than eating them.
+<<endif>>
+===
+
+title: wordHeather
+tags: voice:need revision:none type:bark
+---
+<<if not visited("wordHeather")>>
+  Player: Heather.
+<<else>>
+  Player: Maybe there's somewhere I can use that to make heather grow?
+<<endif>>
+===
+
+title: wordHawthorn
+tags: voice:need revision:none type:bark
+---
+<<if not visited("wordHawthorn")>>
+  Player: Hawthorn.
+<<else>>
+  Player: Maybe there's somewhere I can use that to make hawthorn grow?
+<<endif>>
+===
+
+title: hawthornBerries
+tags: voice:need revision:none type:bark
+---
+<<if not visited("hawthornBerries")>>
+  Player: These look like hawthorn berries
+<<else>>
+  Player: I think hawthorn berries make great jam, but it is not everyone's jam.
+<<endif>>
+===
+
+title: fabric
+tags: voice:need revision:none type:bark
+---
+<<if not visited("fabric")>>
+  Player: This fabric looks pretty plain, I expected it to have something special...
+<<else>>
+  Player: I could maybe make clothes with this, or curtains or something. Or I could just burn it, hahaha.
+<<endif>>
+===
+
+title: wordPetals
+tags: voice:need revision:none type:bark
+---
+<<if not visited("wordPetals")>>
+  Player: Petals.
+<<else>>
+  Player: Maybe I can swap that with other words?
+<<endif>>
+===
+
+title: honey
+tags: voice:need revision:none type:bark
+---
+<<if not visited("honey")>>
+  Player: Awesome, I just created honey!
+<<else>>
+  Player: I love honey, I could eat it by the spoon.
+<<endif>>
+===
+
+title: yew
+tags: voice:need revision:none type:bark
+---
+<<if not visited("yew")>>
+  Player: A yew tree.
+<<else>>
+  Player: From what I have read, water based fae hate trees.
+<<endif>>
+===
+
+title: oak
+tags: voice:need revision:none type:bark
+---
+<<if not visited("oak")>>
+  Player: An oak tree.
+<<else>>
+  Player: Oaks are usually majestic, it is funny to see a tiny one like this.
+<<endif>>
+===
+
+title: birch
+tags: voice:need revision:none type:bark
+---
+<<if not visited("birch")>>
+  Player: A birch tree.
+<<else>>
+  Player: From what I have read, water based fae hate trees.
+<<endif>>
+===
+
+title: foxglove
+tags: voice:need revision:none type:bark
+---
+<<if not visited("foxglove")>>
+  Player: Foxglove flowers are so beautiful.
+<<else>>
+  Player: I hope I don't get poisoned by manipulating this, considering how lethal foxglove is.
+<<endif>>
+===
+
+title: spindle
+tags: voice:need revision:none type:bark
+---
+<<if not visited("spindle")>>
+  Player: A spindle to spin yarn into the thread of life.
+<<else>>
+  Player: This spindle looks particularly sharp, for a wooden spindle.
+<<endif>>
+===
+
+title: bloodDrop
+tags: voice:need revision:none type:bark
+---
+<<if not visited("bloodDrop")>>
+  Player: A drop of my blood.
+<<else>>
+  Player: Would it be a good idea to feed this to the blood tree?
+<<endif>>
+===
+
+title: oilLamp
 tags: voice:need revision:need type:bark
 ---
-Player: Ah, those are Uruz runes, most likely representing water.
+<<if not visited("oilLamp") or not $sealedFireDemon>>
+  Player: An oil lamp, steady companion in the dark of the night.
+<<else>>
+  Player: I wonder if the oil in there it would work to counter water runes.
+<<endif>>
+===
+
+title: kaunanBloodTree
+tags: voice:need revision:none type:bark
+---
+<<if $sealedFireDemon>>
+  Player: Kaunan is not an auspicious rune.
+<<else>>
+  jump kaunanBloodTreeUnsealedFireDemon
+<<endif>>
+===
+
+title: kaunanBloodTreeUnsealedFireDemon
+tags: voice:need revision:none type:bark
+---
+<<if not visited("kaunanBloodTreeUnsealedFireDemon")>>
+  Player: Kaunan is most often used for death. I doubt that was the intention here.
+<<else>>
+  Player: Kaunan is also about burning, and illness. I suppose both would be very fitting to seal a blood tree.
+<<endif>>
+===
+
+title: peordBloodTree
+tags: voice:need revision:none type:bark
+---
+<<if $sealedFireDemon>>
+  Player: That's Peord, but I don't remember its exact meanings.
+<<else>>
+  jump peordBloodTreeUnsealedFireDemon
+<<endif>>
+===
+
+title: peordBloodTreeUnsealedFireDemon
+tags: voice:need revision:none type:bark
+---
+<<if not visited("peordBloodTreeUnsealedFireDemon")>>
+  Player: I should probably consult a rune index to refresh my memory about Peord runes.
+<<else>>
+  Player: I think Peord is often fuelled by music, in rituals...
+<<endif>>
+===
+
+title: honey
+tags: voice:need revision:none type:bark
+---
+<<if not visited("honey") or $pickedUpItemHoney>>
+  Player: Honey.
+<<elseif $wordHoneyInFoodDescription>>
+  Player: Oh good, this looks like honey!
+<<else>>
+  Player: I suppose I need to find the right space to use this word in.
+<<endif>>
+===
+
+title: naudhizDomesticTroll
+tags: voice:need revision:none type:bark
+---
+<<if $numberDeactivatedNaudhiz == 0>>
+  Player: I know this rune! It's Naudhiz, the rune of bodily needs, unfulfilled desires, and hunger.
+<<else>>
+  Player: It looks like each rune will require a different object to deactivate.
+<<endif>>
+===
+
+title: weavingLoom
+tags: voice:need revision:none type:bark
+---
+<<if not visited("weavingLoom")>>
+  Player: My uncle used to have a weaving loom like this one. Was it fae-made?
+<<elseif $weavedThreads == 0>>
+  Player: If I had some thread, I could use this loom to make fabric.
+<<elseif $weavedThreads < 3>>
+  Player: This seems to be working, but I need more thread to weave together.
+<<else>>
+  Player: I am getting there! It looks like six threads will be enough to cmplete the fabric.
+<<endif>>
+===
+
+title: ansuzLaundryFae
+tags: voice:need revision:none type:bark
+---
+<<if $sealedFireDemon>>
+  Player: This is Ansuz, rune of godly power.
+<<else>>
+  jump ansuzLaundryFaeUnsealedFireDemon
+<<endif>>
+===
+
+title: ansuzLaundryFaeUnsealedFireDemon
+tags: voice:need revision:none type:bark
+---
+<<if not visited("ansuzLaundryFaeUnsealedFireDemon")>>
+  Player: I really do not see what godly power has to do with this fae.
+<<else>>
+  Player: Maybe I should check if Ansuz has other significations.
+<<endif>>
+===
+
+title: eihwazLaundryFae
+tags: voice:need revision:none type:bark
+---
+<<if $sealedFireDemon>>
+  Player: Something like Eidhiz. Weisaz?
+<<else>>
+  jump eihwazLaundryFaeUnsealedFireDemon
+<<endif>>
+===
+
+title: eihwazLaundryFaeUnsealedFireDemon
+tags: voice:need revision:none type:bark
+---
+<<if not visited("eihwazLaundryFaeUnsealedFireDemon")>>
+  Player: So many runes to remember... I have no idea what this one is.
+<<else>>
+  Player: I might need to look this rune up.
+<<endif>>
+===
+
+title: berkananLaundryFae
+tags: voice:need revision:none type:bark
+---
+<<if $sealedFireDemon>>
+  Player: Berkanan is often used in blessing rituals.
+<<else>>
+  jump berkananLaundryFaeUnsealedFireDemon
+<<endif>>
+===
+
+title: berkananLaundryFaeUnsealedFireDemon
+tags: voice:need revision:none type:bark
+---
+<<if not visited("berkananLaundryFaeUnsealedFireDemon")>>
+  Player: The fae does look young, but somehow I do not think that was Berkanan's intended use.
+<<else>>
+  Player: I vaguely remember Berkanan having other meanings, unrelated to birth or age...
+<<endif>>
+===
+
+title: isazThreeAndOne
+tags: voice:need revision:none type:bark
+---
+<<if $sealedLaundryFae>>
+  Player: Isaz.
+<<else>>
+  jump isazThreeAndOneUnsealedLaundryFae
+<<endif>>
+===
+
+title: isazThreeAndOneUnsealedLaundryFae
+tags: voice:need revision:none type:bark
+---
+<<if not visited("isazThreeAndOneUnsealedLaundryFae")>>
+  Player: Isaz, isaz, isaz... Crikey, its meaning keep escaping me!
+<<else>>
+  Player: I only recall that it is one of the rare runes with a single signification.
+<<endif>>
+===
+
+title: berkananThreeAndOne
+tags: voice:need revision:none type:bark
+---
+<<if $sealedLaundryFae>>
+  Player: Berkanan is often used in blessing rituals.
+<<else>>
+  jump berkananThreeAndOneUnsealedFLaundryFae
+<<endif>>
+===
+
+title: berkananThreeAndOneUnsealedLaundryFae
+tags: voice:need revision:none type:bark
+---
+<<if not visited("berkananThreeAndOneUnsealedLaundryFae")>>
+  Player: Berkanan is a run of birth and youth.
+<<else>>
+  Player: I probably need something opposed to birth or creation to deactivate Berkanan. Not death, though...
+<<endif>>
+===
+
+title: laguzThreeAndOne
+tags: voice:need revision:none type:bark
+---
+<<if $sealedLaundryFae>>
+  Player: Laguz.
+<<else>>
+  jump laguzThreeAndOneUnsealedFLaundryFae
+<<endif>>
+===
+
+title: laguzThreeAndOneUnsealedLaundryFae
+tags: voice:need revision:none type:bark
+---
+<<if not visited("laguzThreeAndOneUnsealedLaundryFae")>>
+  Player: Laguz is water, fluidity, and life.
+<<else>>
+  Player: Laguz probably stands for life, here. At least it seems much more coherent than water.
+<<endif>>
 ===
