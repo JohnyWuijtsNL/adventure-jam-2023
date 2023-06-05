@@ -18,7 +18,8 @@ public class OilCanScript : MonoBehaviour
     {
         if (isDragging)
         {
-            transform.position = (Input.mousePosition) / 100 - initialMousePosition;
+            Debug.Log(100 / Screen.width * Input.mousePosition.x);
+            transform.position = (Input.mousePosition) / (Screen.width / 19.2f) - initialMousePosition;
             if (transform.localPosition.x > 4.35f)
             {
                 transform.localPosition = new Vector3(4.35f, transform.localPosition.y, 0);
@@ -48,7 +49,7 @@ public class OilCanScript : MonoBehaviour
         if (gameManager.canInteract)
         {
             isDragging = true;
-            initialMousePosition = Input.mousePosition / 100 - transform.position;
+            initialMousePosition = Input.mousePosition / (Screen.width / 19.2f) - transform.position;
         }
     }
 
