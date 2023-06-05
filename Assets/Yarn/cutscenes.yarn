@@ -1,132 +1,244 @@
-title: introductionDialogue
+﻿title: introductionDialogue
 tags: voice:need revision:none type:cutscene
 ---
-Mage: Time for a practical exercise, Apprentice!
-Player: Hum...
-Mage: Do not look at me like that, this is not a typical book.
-Player: Apologies, Teacher. I did not mean to doubt you.
-Mage: Apology accepted.
-Mage: Now, this book is an object of power, one of the most common ones.
-Mage: Generations ago, our forebeards found a way to imprint the power of magical creatures into paper.
-Mage: Inside those pages, the essence of these powers remains, when the original creatures have long past away.
-Player: How is it sustained?
-Mage: Oh, Apprentice, you have much to learn before you can comprehend the answer to this question!
-Mage: For now, please focus on learning how to use the book.
-Player: Of course, Teacher.
-Mage: Most pages describe a creature. By reading the incantation on the page, you will harness the corresponding power.
-Player: Is it similar to a spell, then?
-Mage: In a way. You could think of it as a precast spell, that you only need to direct onto a target.
-Mage: Your ability to shape the magic with intent will be limited.
-Mage: But in exchange, you will not need to power the incantation from your own reserves.
-Player: How many incantations does the book hold?
-Mage: This one specifically contains five creatures... or rather, five power imprints.
-Mage: Most usually enclose between three and twelve incantations, depending on the creatures used to create them.
-Mage: Nevertheless, do not plan on relying on them for everything, Apprentice!
-Mage: The Guild has only ever managed to capture the power of two dozen species using this method.
-Player: So no matter how many books have been made, we only have access to twenty-four different self-fuelling incantations?
-Mage: Twenty-five, to be exact. But essentially, that is correct.
-Mage: Are you ready to make your first attempt?
-Player: I am ready.
-Mage: Very well. Your task is to destroy this pile of battered grimoires on the lawn, and leave the grass as pristine as it currently is.
-Mage: I suspect you will need to use three incantations from the book to accomplish this.
-Mage: I will be in the library when you are done.
-Player: Thank you, Teacher. I will try my best.
-Mage: Oh, I do not expect you to encounter difficulties.
-Mage: Just make sure not to mangle the lawn, or I will have you elbow deep in manure brewing fertiliser for the foreseeable future.
+Mage: Time for a practical exercise, Apprentice! #line:067ae7f 
+Player: Hum... #line:0f96668 
+Mage: Do not look at me like that, this is not a typical book. #line:0a40fb3 
+Player: Apologies, Teacher. I did not mean to doubt you. #line:058ec34 
+Mage: Apology accepted. #line:087a09e 
+Mage: Now, this book is an object of power, one of the most common ones. #line:0d12b94 
+Mage: Generations ago, our forebears found a way to imprint the power of magical creatures into paper. #line:0122312 
+Mage: Inside those pages, the essence of these powers remains, when the original creatures have long past away. #line:0df565f 
+Player: How is it sustained? #line:058832b 
+Mage: Oh, Apprentice, you have much to learn before you can comprehend the answer to this question! #line:0407349 
+Mage: For now, please focus on learning how to use the book. #line:0ff3adc 
+Player: Of course, Teacher. #line:04740c1 
+Mage: Most pages describe a creature. By reading the incantation on the page, you will harness the corresponding power. #line:0b093f0 
+Player: Is it similar to a spell, then? #line:0385f4f 
+Mage: In a way. You could think of it as a precast spell, that you only need to direct onto a target. #line:06b8e54 
+Mage: Your ability to shape the magic with intent will be limited. #line:0a412d8 
+Mage: But in exchange, you will not need to power the incantation from your own reserves. #line:01be8bb 
+Player: How many incantations does the book hold? #line:0d36a60 
+Mage: This one specifically contains five creatures... or rather, five power imprints. #line:0b38f41 
+Mage: Most usually enclose between three and twelve incantations, depending on the creatures used to create them. #line:0c90d76 
+Mage: Nevertheless, do not plan on relying on them for everything, Apprentice! #line:01b5a04 
+Mage: The Guild has only ever managed to capture the power of two dozen species using this method. #line:032d2f9 
+Player: So no matter how many books have been made, we only have access to twenty-four different self-fuelling incantations? #line:01cdc76 
+Mage: Twenty-five, to be exact. But essentially, that is correct. #line:0c3445f 
+Mage: Are you ready to make your first attempt? #line:0d76cd1 
+Player: I am ready. #line:02afd94 
+Mage: Very well. Your task is to destroy this pile of battered grimoires on the lawn, and leave the grass as pristine as it currently is. #line:02b337d 
+Mage: I suspect you will need to use three incantations from the book to accomplish this. #line:0bbd7fd 
+Mage: I will be in the library when you are done. #line:0c0e616 
+Player: Thank you, Teacher. I will try my best. #line:0a28153 
+Mage: Oh, I do not expect you to encounter difficulties. #line:0e03ad1 
+Mage: Just make sure not to mangle the lawn, or I will have you elbow deep in manure brewing fertiliser for the foreseeable future. #line:02d3f12 
 ===
 
 title: endingObedient
 tags: voice:need revision:none type:cutscene
 ---
-Player: Teacher? I have finished.
-Mage: Have you? Are the books gone?
-Player: They are, Teacher. And the grass is green and lush.
-Mage: Good, good. I knew this would pose no challenge to you.
-Player: I wonder, Teacher...
-Mage: Yes?
-Player: When I first leafed through the book, it reacted bizarrely.
-Player: The drawing of one of the creatures started moving, and I could have sworn I heard a voice.
-Player: It was the page for the fire demon, if I remember well.
-Mage: Ha, that is of no concern!
-Mage: Magically charged object, stored in a magically saturated environment...
-Mage: Some quirks are to be expected.
-Mage: I will have a look at the book, nonetheless, if it will put your mind at rest.
-Mage: Now run along, I believe it is time for your daily calligraphy lesson.
-Mage: Your younger Futhark still leaves much to be desired.
-Player: Of course, Teacher.
+Player: Teacher? I have finished. #line:036c996 
+Mage: Have you? Are the books gone? #line:0ca2122 
+Player: They are, Teacher. And the grass is green and lush. #line:0eded2e 
+Mage: Good, good. I knew this would pose no challenge to you. #line:013d17d 
+Player: I wonder, Teacher... #line:0a429dd 
+Mage: Yes? #line:0dacca1 
+Player: When I first leafed through the book, it reacted bizarrely. #line:0b827d0 
+Player: The drawing of one of the creatures started moving, and I could have sworn I heard a voice. #line:0aa5198 
+Player: It was the page for the fire demon, if I remember well. #line:077e978 
+Mage: Ha, that is of no concern! #line:0c32c8a 
+Mage: Magically charged object, stored in a magically saturated environment... #line:0bea12c 
+Mage: Some quirks are to be expected. #line:000807a 
+Mage: I will have a look at the book, nonetheless, if it will put your mind at rest. #line:09b3348 
+Mage: Now run along, I believe it is time for your daily calligraphy lesson. #line:0ad3fbc 
+Mage: Your younger Futhark still leaves much to be desired. #line:0b376e8 
+Player: Of course, Teacher. #line:0829a08 
 ===
 
 title: endingRebel
 tags: voice:need revision:none type:cutscene
 ---
-Three-and-one: And so, and so, and so, they were born, to live, and perish anew.
-Domestic Troll: If you'll excuse me, I have to find my way home before my humans burn the house down.
-Domestic Troll: Again.
-Fire Demon: Right, scampering away already, not even a thank you to the one who set things in motions!
-Laundry Fae: Of course, our thanks, young human. May your clothes always sing.
-Fire Demon: I meant me, but yes, why not, I guess they are alright, for a magic-stealing human.
-Player: You're welcome.
-Player: Was the Blood Tree not freed with the rest of you?
-Three-and-one: Trees, trees, trees, rooted into the earth is their path.
-Three-and-one: They are where they are born to be, where they thrive and suffer, where they will give be to the earth.
-Fire Demon: Yes, well, charming reunion and all, but I have places to be, things to burn, the usual story.
-Fire Demon: Never liked book remains as a fuel. It just tastes... wrong.
-Laudry fae: I have to get back to my own again. Farewell, deliverer!
-Laudry fae: Mayhap our flows will cross again. *giggle*
-Three-and-one: That which should, is.
+Three-and-one: And so, and so, and so, they were born, to live, and perish anew. #line:073f548 
+Domestic Troll: If you'll excuse me, I have to find my way home before my humans burn the house down. #line:0c42398 
+Domestic Troll: Again. #line:00552ee 
+Fire Demon: Right, scampering away already, not even a thank you to the one who set things in motions! #line:0dcb497 
+Laundry Fae: Of course, our thanks, young human. May your clothes always sing. #line:00f9a1f 
+Fire Demon: I meant me, but yes, why not, I guess they are alright, for a magic-stealing human. #line:0e76d55 
+Player: You're welcome. #line:039f2bb 
+Player: Was the Blood Tree not freed with the rest of you? #line:034db86 
+Three-and-one: Trees, trees, trees, rooted into the earth is their path. #line:0dc89f2 
+Three-and-one: They are where they are born to be, where they thrive and suffer, where they will give be to the earth. #line:0e0cb54 
+Fire Demon: Yes, well, charming reunion and all, but I have places to be, things to burn, the usual story. #line:0817f63 
+Fire Demon: Never liked book remains as a fuel. It just tastes... wrong. #line:05ca30a 
+Laudry fae: I have to get back to my own again. Farewell, deliverer! #line:0a5f816 
+Laudry fae: Mayhap our flows will cross again. *giggle* #line:0564b15 
+Three-and-one: That which should, is. #line:01e7048 
+Mage: What have you done, Apprentice?! #line:0221bb0 
+Mage: The Guild will have you exiled for this! #line:0804761 
 ===
 
 title: epilogue
 tags: voice:need revision:none type:cutscene
 ---
-And they all lived happily ever after.
+Three-and-one: Earth danced in a full circle around the sun. #line:030e6e8 
+Three-and-one: Enough time for humans to notice the change. #line:0a27666 
+Three-and-one: Other sentient beings, once thought extinct, being spotted anew. #line:0833da9 
+Three-and-one: First, one by one, then slowly a pair here, a trio there. #line:0654364 
+Three-and-one: Dozens and scores, taking their rightful place once again. #line:0cc93e8 
+Three-and-one: And the humans turned to their mages: help us! #line:0e778c3 
+Three-and-one: For why would one share the land that they had believed for decades was theirs to keep? #line:0184568 
+Three-and-one: For who but the oldest elders remembered the terrible cost asked in exchanged of a fruit born in blood? #line:03995f1 
+Three-and-one: But the guilds, caught in their own inner torments, remained unmoved by those cries. #line:0f80973 
+Three-and-one: Several died, and we started gathering the threads of a war opposing humans to all other beings. #line:0344f9e 
+Three-and-one: Until the song spread. #line:0885f93 
+Three-and-one: Leaflets left on doorsteps in the dark of the night. #line:0dcbc9c 
+Three-and-one: Dreams haunted by a humming messenger. #line:0990d03 
+Three-and-one: Word of mouth, from fae mouth to demon's ear to human's mouth to troll's heart. #line:0d8e8cf 
+Three-and-one: The song speaks of the guilds, the tale of an elite, drunk on power, who still craved for more. #line:087baa5 
+Three-and-one: The song speaks of the book-prisons, crafted both to erase difference and farm magic. #line:03810c5 
+Three-and-one: The song speaks of a resistance, gathering those books and quietly bidding its time. #line:0228762 
+Three-and-one: Finally, of all, the song begs: stop playing to the puppeteer's script. #line:0840e82 
+Three-and-one: Plenty heed the song's call. Plenty do not. #line:0218401 
+Three-and-one: The coming times will cut many a thread short. #line:016050e 
+Three-and-one: But we see paths where life and freedom might bloom. #line:0b5f3a8 
+Three-and-one: And we hope. #line:063907d 
+===
+
+title: fireDemonIntro
+tags: voice:need revision:none type:cutscene
+---
+Fire Demon: Urggh #line:044d607 
+Fire Demon: Nearly there... #line:0631011 
+Fire Demon: If only these bloody runes would just wash away! #line:0d4185a 
+Fire Demon: Water runes, wash away, ha ha, jokes aren't going to get me out of here. #line:0d2b537 
+Fire Demon: Come on, burn, burn, burn! #line:010eaf2 
 ===
 
 title: unsealBloodTree
 tags: voice:need revision:need type:cutscene
 ---
-Blood Tree: At last...
-Blood Tree: So many years, decades, tortured by this infernal melody.
-Blood Tree: Burnt dry to my core.
-Blood Tree: What do you want from me, human?
-Player: Euh, nothing special. Mostly, I did not think it was right for you to be locked up in a book?
-Blood Tree: Nothing special, they say, and then they accept a fruit from my branches and wish a dying relative spry once more.
-Blood Tree: Granting a wish is no bark off my trunk. My fruits will ensure you pay your dues anyway.
+Blood Tree: At last... #line:0603878 
+Blood Tree: So many years, decades, tortured by this infernal melody. #line:0d1fbca 
+Blood Tree: Burnt dry to my core. #line:010772a 
+Blood Tree: What do you want from me, human? #line:0e672cd 
+Player: Err, nothing special. Mostly, I did not think it was right for you to be locked up in a book? #line:04a7221 
+Blood Tree: Nothing special, they say, and then they accept a fruit from my branches and wish a dying relative spry once more. #line:057bcd7 
+Blood Tree: Granting a wish is no bark off my trunk. My fruits will ensure you pay your dues anyway. #line:0ffe8fb 
+Player: Right. The book does mention that.
+Player: Your fire demon neighbour mentioned that I would need all of your help to unseal the Three-and-one?
+Blood Tree: So you aim to send me back to a harrowing flesh existence?
+Player: I...
+Blood Tree: Anything rather than dying.
+Blood Tree: To unseal the Three-and-one... That would take some work.
+Blood Tree: Something useful among my roots.
+Blood Tree: And fae flowers.
+Player: Fae flowers? There are no flowers on the Laundry fae's page.
+Blood Tree: They probably aren't strong enough to push against their seals.
+Blood Tree: Their kind is... everything that I abhor.
+Blood Tree: But where those fae go, flowers follow.
+Blood Tree: Unless humans get their greedy hands on them and make a mess.
+Player: Thank you for your information. I will work on it right away.
 ===
 
 title: unsealDomesticTroll
 tags: voice:need revision:need type:cutscene
 ---
-Domestic Troll: And who are you?
-Domestic Troll: Is this mess your doing? Are you people never going to let me rest?
-Domestic Troll: Where am I? This isn't my home!
-Domestic Troll: My home! My home! I have to get back to my family!
-Domestic Troll: You need to help me get back home! My humans can't survive without me!
-Domestic Troll: You wouldn't believe it, how clumsy and clueless they are...
-Domestic Troll: Always putting holes in their shoes, in their coats, in their milk buckets.
-Domestic Troll: Always getting penny buns and death caps mixed up, even if looked nothing like other.
-Domestic Troll: How long have I been gone? I'm sure they won't have remembered to sweep under the dresser, and now the rats will have moved in!
+Domestic Troll: And who are you? #line:0411c1a 
+Domestic Troll: Is this mess your doing? Are you people never going to let me rest? #line:01b4290 
+Domestic Troll: Where am I? This isn't my home! #line:0093da8 
+Domestic Troll: My home! My home! I have to get back to my family! #line:05123fe 
+Domestic Troll: You need to help me get back home! My humans can't survive without me! #line:0582d7a 
+Domestic Troll: You wouldn't believe it, how clumsy and clueless they are... #line:07431cd 
+Domestic Troll: Always putting holes in their shoes, in their coats, in their milk buckets. #line:01c5bfb 
+Domestic Troll: Always getting penny buns and death caps mixed up, even if looked nothing like other. #line:0281117 
+Domestic Troll: How long have I been gone? I'm sure they won't have remembered to sweep under the dresser, and now the rats will have moved in! #line:02a2d14 
 ===
 
 title: unsealFireDemon
 tags: voice:need revision:need type:cutscene
 ---
-Fire Demon: About time, you piece of meat.
-Player: Fie! You're actually alive!
-Fire Demon: Humans, really... Why did you unseal me if you didn't think I was alive?
-Fire Demon: Do you just enjoy destroying everything you get your hands on?
-Fire Demon: Mind, that'd be pretty typical for a human...
-Fire Demon: Guess it's actually to my advantage this time, so I suppose you get a pass.
+Fire Demon: About time, you piece of meat. #line:07786ac 
+Player: Fie! You're actually alive! #line:0a89974 
+Fire Demon: Humans, really... Why did you unseal me if you didn't think I was alive? #line:047e2b5 
+Fire Demon: Do you just enjoy destroying everything you get your hands on? #line:0fcc27e 
+Fire Demon: Mind, that'd be pretty typical for a human... #line:09d2e64 
+Fire Demon: Guess it's actually to my advantage this time, so I suppose you get a pass. #line:0038639 
+Player: What are you? #line:0410ece 
+Fire Demon: What do they teach kids these days... I'm a fire demon, you twat! #line:0aacf89 
+Player: But... How are you in this book then? I thought it was only suppose to contain an imprint of the power of creatures long gone. #line:042f7a8 
+Fire Demon: Is that the current propaganda? Imprint of power my ass! #line:07e2fff 
+Fire Demon: And claiming that we are "long gone" when really, they have chained us all up into those thrice-damned books? #line:01f4640 
+Fire Demon: They have no shame! #line:0a0c4b2 
+Player: They? Who are you talking about? #line:0460bce 
+Fire Demon: Well, the human mages, of course! #line:03118dc 
+Fire Demon: Aren't you studying to be one yourself? You have the get up of one... They seduced you with promise of power, did they? #line:072cad7 
+Fire Demon: Well, here's a hard truth about life for you: if you don't have to work for it, then someone's most likely suffering in your stead. #line:039800e 
+Fire Demon: Me and my comrades on the other pages? We've been locked up and milked for magic for longer than you've been alive. #line:0a603a4 
+Fire Demon: And to be honest, it rather stings to own the return of my freedom to someone like you. #line:0dbe3c6 
+Fire Demon: I hope you intend to finish the job, at least? #line:0008785 
+Player: Finish the job? #line:0cc164d 
+Fire Demon: Yes, well, d'you really think I'm staying around of my own free will? #line:0a84b4e 
+Fire Demon: I might not be so strongly contained anymore, but I'm still stuck here. #line:0d7aeda 
+Player: The runes are all gone though. At least they have disappeared from the page. #line:0d355ed 
+Player: Is there anything tying you to the book? #line:0c64fcf 
+Fire Demon: Have you ever been spelled into a book? #line:05781dd 
+Player: I cannot say I have, no. #line:0871b5d 
+Fire Demon: Well let me spell it out to you, then. #line:0c54e9c 
+Fire Demon: I can't exactly float out. Crawl out. Burn my way out. Whatever. #line:09c31e6 
+Fire Demon: I'm not corporeal anymore. So if I don't want to depend on this hateful pile of paper anymore, I need a new body. #line:08a73d6 
+Player: What happened to your original one? #line:0b4fc4f 
+Fire Demon: Why? Are you hoping to put the next demon you cross path with through the same? #line:007c916 
+Player: I have never come across an elemental demon before. Or any kind of demon, to be honest. #line:018b4e1 
+Player: I would not know what constitutes a body for your kind. #line:00c16a2 
+Fire Demon: Lucky for me, then, you're not the one with the power to give me a new body! #line:0ca53b9 
+Fire Demon: Knowing humans, you'd probably try to give me bones, or skin. #line:0cd566b 
+Fire Demon: Urgh, so limiting, I'm getting chills just thinking about it! #line:05da05e 
+Fire Demon: Anyway, back to the problem at end! #line:0202d97 
+Fire Demon: You need to lift the seals on the Three-and-one. #line:0912b0a 
+Player: The Three-and-one? #line:0f9deb1 
+Fire Demon: Yes, the Three-and-one, do keep up! #line:0d68dd0 
+Fire Demon: Two pages after me, deity of all creation, existence and destruction? #line:0d73699 
+Fire Demon: They can make me a new body. #line:08ec667 
+Player: Because they are the deity of creation? #line:0b511ca 
+Fire Demon: And existence, and destruction. Can't have one without the others. But yes. #line:0b61f9e 
+Player: But... if I free you, or that Three-and-one figure, what stops you from frying me up the moment I get out of the book? #line:0691952 
+Fire Demon: Nothing. You'd deserve it, you know? Well, maybe not you personally, but mages. #line:03bf7ea 
+Fire Demon: But I'm a rather self-serving individual, and drawing your superiors' attention would be a counter-productive move on my side. #line:0530135 
+Fire Demon: Plus, you know, I'd probably feel guilty about it afterwards. #line:0a7cff3 
+Fire Demon: I'm not a big fan of killing. Not sentient beings at least. #line:014efcd 
+Fire Demon: Unlike certain humans I know... #line:0fe90b7 
+Player: Um. Say I want to, finish the job, as you phrased it. #line:07c83bd 
+Player: How do I unseal the Three-and-one, though? Their seal looks a lot more complicated than yours did! #line:0a82abb 
+Fire Demon: You're the one studying human magic, you figure it out! #line:020fc7b 
+Fire Demon: If I were you, I'd unseal the others first, though. #line:049eec1 
+Fire Demon: Domestic trolls worship the Three-and-one, for some reason I've never understood. #line:00da859 
+Fire Demon: So they might have useful information about them and their seals. #line:08be1a3 
+Fire Demon: As for the Laundry fae and the Blood tree... #line:071801a 
+Fire Demon: Well, I remember the head twat grumbling about tying the Three-and-one's seal to the rest of us. #line:09cc041 
+Fire Demon: So that's my advice. #line:07c967d 
+Player: Are you just trying to get me to release everyone? #line:04b99d9 
+Fire Demon: Why play favourite? If you're going to help me, you might as well help all of us... #line:04b9c55 
+Fire Demon: But the answer to your question is no. I'm pretty sure you need to unseal them before you can unseal the Three-and-one. #line:0a4dce8 
+Fire Demon: Like I said, self-serving individual. If you'd free only me, I'd still take it. #line:0205bb2 
+Fire Demon: It'd make you a bloody windfucker, but I'd take it. #line:08dfb58 
+Fire Demon: So, what are you waiting for ?! #line:07666e9 
 ===
 
 title: unsealLaundryFae
 tags: voice:need revision:need type:cutscene
 ---
-Laundry Fae: And finally the trees have receeded!
+Laundry Fae: And finally the trees have receded! #line:01da4f2 
+Laundry Fae: *giggle* #line:04f5c41 
+Laundry Fae: I can already feel the song of fabric against my hands. #line:0902e67 
+Laundry Fae: The guffaws of the river racing and jumping and whirling in its bed. #line:0b911a8 
+Laundry Fae: The warmth of shared company. #line:037478b 
+Laundry Fae: You will help us, stranger, won't you? #line:0c35e89 
+Laundry Fae: You will finish what you start and unchain the Three-and-one, so they can birth us again? #line:0594d3d 
+Player: That is what I plan to do.
+Laundry Fae: You can borrow my flowers if you need to.
+Laundry Fae: Fae flowers are powerful, even against the life of human magic.
+Laundry Fae: Heather for love, hawthorn for beauty, foxglove for pride.
+Laundry Fae: Love, beauty and pride you shall restore to us.
 Laundry Fae: *giggle*
-Laundry Fae: I can already feel the song of fabric against my hands.
-Laundry Fae: The guffaws of the river racing and jumping and whirling in its bed.
-Laundry Fae: The warmth of shared companie.
-Laundry Fae: You will help us, stranger, won't you?
-Laundry Fae: You will finish what you start and unchain the Three-and-one so they can birth us again?
 ===
