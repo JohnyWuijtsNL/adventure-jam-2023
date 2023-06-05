@@ -125,6 +125,20 @@ Blood Tree: What do you want from me, human? #line:0e672cd
 Player: Err, nothing special. Mostly, I did not think it was right for you to be locked up in a book? #line:04a7221 
 Blood Tree: Nothing special, they say, and then they accept a fruit from my branches and wish a dying relative spry once more. #line:057bcd7 
 Blood Tree: Granting a wish is no bark off my trunk. My fruits will ensure you pay your dues anyway. #line:0ffe8fb 
+Player: Right. The book does mention that.
+Player: Your fire demon neighbour mentioned that I would need all of your help to unseal the Three-and-one?
+Blood Tree: So you aim to send me back to a harrowing flesh existence?
+Player: I...
+Blood Tree: Anything rather than dying.
+Blood Tree: To unseal the Three-and-one... That would take some work.
+Blood Tree: Something useful among my roots.
+Blood Tree: And fae flowers.
+Player: Fae flowers? There are no flowers on the Laundry fae's page.
+Blood Tree: They probably aren't strong enough to push against their seals.
+Blood Tree: Their kind is... everything that I abhor.
+Blood Tree: But where those fae go, flowers follow.
+Blood Tree: Unless humans get their greedy hands on them and make a mess.
+Player: Thank you for your information. I will work on it right away.
 ===
 
 title: unsealDomesticTroll
@@ -221,4 +235,10 @@ Laundry Fae: The guffaws of the river racing and jumping and whirling in its bed
 Laundry Fae: The warmth of shared company. #line:037478b 
 Laundry Fae: You will help us, stranger, won't you? #line:0c35e89 
 Laundry Fae: You will finish what you start and unchain the Three-and-one, so they can birth us again? #line:0594d3d 
+Player: That is what I plan to do.
+Laundry Fae: You can borrow my flowers if you need to.
+Laundry Fae: Fae flowers are powerful, even against the life of human magic.
+Laundry Fae: Heather for love, hawthorn for beauty, foxglove for pride.
+Laundry Fae: Love, beauty and pride you shall restore to us.
+Laundry Fae: *giggle*
 ===
