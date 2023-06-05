@@ -264,13 +264,13 @@ tags: voice:need revision:need type:bark
 <<endif>>
 ===
 
-title: honey
+title: wordHoney
 tags: voice:need revision:none type:bark
 ---
-<<if not visited("honey") or $pickedUpItemHoney>>
+<<if not visited("wordHoney") or $pickedUpItemHoney>>
   Player: Honey.
 <<elseif $wordHoneyInFoodDescription>>
-  Player: Oh good, this looks like honey!
+  Player: Oh good, some honey just appeared!
 <<else>>
   Player: I suppose I need to find the right space to use this word in.
 <<endif>>
