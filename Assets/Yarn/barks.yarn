@@ -415,3 +415,61 @@ tags: voice:need revision:none type:bark
 ---
 Player: Oh crikey! It looks like I need to follow the pattern in which the runes light up perfectly to counteract the chaos. #line:03320e8 
 ===
+
+title: fireDemonPageText1
+tags: voice:need revision:none type:bark
+---
+Player: Fire demons exist as sentient and autonomous flames.
+Player: They seek existing fires to possess, as their self-sufficiency is limited and they draw their power from a flame’s heat.
+===
+
+title: fireDemonPageText2
+tags: voice:need revision:none type:bark
+---
+Player: Fire demons have been known to agree to deals with humans, most often in smithies and kitchens.
+Player: They promise to maintain a constant fire in exchange for fuel and protected fire pits.
+Player: However, many such a deal have ended in tragedy and fire demons should be considered highly unreliable.
+===
+
+title: fireDemonPageText3
+tags: voice:need revision:none type:bark
+---
+Player: Above all, fire demons seek power: they will drive fires out of control to grow in strength, and will not stop until they have burnt everything within their reach.
+===
+
+title: fireDemonPageText4
+tags: voice:need revision:none type:bark
+---
+Player: If one comes across the remains of a fire-demon-fuelled flame, one might want to take the take to collect its ashes.
+Player: Prepared properly, they can make for uncommonly powerful ink to draw magical runes.
+===
+
+title: bloodTreePageText1
+tags: voice:need revision:none type:bark
+---
+Player: Blood trees are incredibly interesting specimens, from a magical theory point of view.
+Player: Born from the seed of an orchard tree sown into a bloodied battlefield blood, they do not have much to do with their parental tree, except from the fact that they bear fruits.
+Player: While they are usually classified as a flesh-eating plant species, it would be more accurate to consider them blood-eating, as they suck their preys dry of blood and leave their corpses to rot between their roots.
+===
+
+title: bloodTreePageText2
+tags: voice:need revision:none type:bark
+---
+Player: Many have theorised that blood trees own their sentience to the souls of those who died on their battlefield, explaining their antisocial and aggressive nature.
+Player: Blood trees do not understand joy, companionship or the concept of freely given gifts. They exist in a never-ending expanse of hatred.
+===
+
+title: bloodTreePageText3
+tags: voice:need revision:none type:bark
+---
+Player: Their fruits have the very alluring property of making the eater’s most fervent wish come true.
+Player:This comes at a terrible cost : people who consume a blood fruit fall under the control of its mother tree.
+Player: One day, one month, one year later, they will enter a trance and make their way back to the tree, and die in its embrace.
+===
+
+title: bloodTreePageText4
+tags: voice:need revision:none type:bark
+---
+Player: Blood trees have a symbiotic relationship with a rare species of mushroom with paralytic properties.
+Player: Ingestion, and sometimes mere contact, is enough to deaden all of its victim’s muscles.
+===
