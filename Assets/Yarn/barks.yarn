@@ -413,31 +413,31 @@ Player: Othala is heritage, property, or nobility. #line:015e8d2
 title: uruzPlusWood
 tags: voice:need revision:none type:bark
 ---
-Player: I do not think wet wood would help.
+Player: I do not think wet wood would help. #line:02a0085 
 ===
 
 title: naudhizPlusHumanBabyOrCrow
 tags: voice:need revision:none type:bark
 ---
-Player: I think that would be pushing the limits of what human consider to be food.
+Player: I think that would be pushing the limits of what human consider to be food. #line:0539e77 
 ===
 
 title: naudhizPlusHawthornBerries
 tags: voice:need revision:none type:bark
 ---
-Player: This feels like a terrible idea, if domestic trolls are allergic to hawthorn berries...
+Player: This feels like a terrible idea, if domestic trolls are allergic to hawthorn berries... #line:05c01c8 
 ===
 
 title: naudhizPlusParalyticMushroom
 tags: voice:need revision:none type:bark
 ---
-Player: I doubt satisfying one's hunger using a lethal paralytic mushroom is a good idea.
+Player: I doubt satisfying one's hunger using a lethal paralytic mushroom is a good idea. #line:050a568 
 ===
 
 title: removeTreeTooEarly
 tags: voice:need revision:none type:bark
 ---
-Player: It looks like I am on the right path, but something is still missing. The fae still is not strong enough to fight off the trees.
+Player: It looks like I am on the right path, but something is still missing. The fae still is not strong enough to fight off the trees. #line:0645045 
 ===
 
 title: failSimonSay
@@ -507,50 +507,50 @@ Player: Ingestion, and sometimes mere contact, is enough to deaden all of its vi
 title: domesticTrollPageText1
 tags: voice:need revision:none type:bark
 ---
-Player: Domestic trolls used to infest human homes.
-Player: They were rarely seen, and ingratiated themselves to their human hosts by discreetly helping with domestic tasks, from cleaning the hearth to darning socks.
+Player: Domestic trolls used to infest human homes. #line:08990ec 
+Player: They were rarely seen, and ingratiated themselves to their human hosts by discreetly helping with domestic tasks, from cleaning the hearth to darning socks. #line:0402bbe 
 ===
 
 title: domesticTrollPageText2
 tags: voice:need revision:none type:bark
 ---
-Player: According to tradition, humans are supposed to reward their domestic troll with food.
-Player: The creatures’ diet were very similar to humans’, though they required far less food than us to survive.
+Player: According to tradition, humans are supposed to reward their domestic troll with food. #line:07e82cd 
+Player: The creatures’ diet were very similar to humans’, though they required far less food than us to survive. #line:0876827 
 ===
 
 title: domesticTrollPageText3
 tags: voice:need revision:none type:bark
 ---
-Player: Despite their apparent helpfulness, domestic trolls are treacherous pests, as more than one unsuspecting family has had to bear the consequences of.
-Player: Their extremely controlling nature and their general aversion to change has resulted in more than one tragedy, such as families being locked into their houses for weeks on end by the beasts, or newborns being disposed of with the rubbish.
+Player: Despite their apparent helpfulness, domestic trolls are treacherous pests, as more than one unsuspecting family has had to bear the consequences of. #line:01c2051 
+Player: Their extremely controlling nature and their general aversion to change has resulted in more than one tragedy, such as families being locked into their houses for weeks on end by the beasts, or newborns being disposed of with the rubbish. #line:0179495 
 ===
 
 title: domesticTrollPageText4
 tags: voice:need revision:none type:bark
 ---
-Player: Contrary to popular belief, domestic trolls had not issue with heather bushes, so planting some around one’s house was not an effective way to dissuade them from moving in.
-Player: Hawthorn, on the other hand, seemed to have more favourable results, probably because its berries were highly poisonous to the trolls.
+Player: Contrary to popular belief, domestic trolls had not issue with heather bushes, so planting some around one’s house was not an effective way to dissuade them from moving in. #line:0262d80 
+Player: Hawthorn, on the other hand, seemed to have more favourable results, probably because its berries were highly poisonous to the trolls. #line:05fb664 
 ===
 
 title: laundryFaePageText1
 tags: voice:need revision:none type:bark
 ---
-Player: Laundry fae are water-based fae that are most often sighted on river-sides washing clothes.
-Player: They seem to attach a lot of importance to clothing, and fabric and general, though they are not willing to explain why.
+Player: Laundry fae are water-based fae that are most often sighted on river-sides washing clothes. #line:06f9b99 
+Player: They seem to attach a lot of importance to clothing, and fabric and general, though they are not willing to explain why. #line:0f2f566 
 ===
 
 title: laundryFaePageText2
 tags: voice:need revision:none type:bark
 ---
-Player: They lure humans in, men and women alike, with their terribly beautiful appearances and their haunting singing voices.
-Player: Verily, scholars are not sure those fae have males and females individuals, as they all appear very attractive to whoever crosses their path.
+Player: They lure humans in, men and women alike, with their terribly beautiful appearances and their haunting singing voices. #line:0e8542e 
+Player: Verily, scholars are not sure those fae have males and females individuals, as they all appear very attractive to whoever crosses their path. #line:096420d 
 ===
 
 title: laundryFaePageText3
 tags: voice:need revision:none type:bark
 ---
-Player: Laundry fae, like all fae, are highly capricious. They are just as likely to send you off with a gift than to drown you in their rivers.
-Player: They are so fickle that it is debatable whether they are actually sentient.
+Player: Laundry fae, like all fae, are highly capricious. They are just as likely to send you off with a gift than to drown you in their rivers. #line:07a38b2 
+Player: They are so fickle that it is debatable whether they are actually sentient. #line:0e303c6 
 ===
 
 
