@@ -410,6 +410,36 @@ tags: voice:need revision:none type:bark
 Player: Othala is heritage, property, or nobility. #line:015e8d2 
 ===
 
+title: uruzPlusWood
+tags: voice:need revision:none type:bark
+---
+Player: I do not think wet wood would help.
+===
+
+title: naudhizPlusHumanBabyOrCrow
+tags: voice:need revision:none type:bark
+---
+Player: I think that would be pushing the limits of what human consider to be food.
+===
+
+title: naudhizPlusHawthornBerries
+tags: voice:need revision:none type:bark
+---
+Player: This feels like a terrible idea, if domestic trolls are allergic to hawthorn berries...
+===
+
+title: naudhizPlusParalyticMushroom
+tags: voice:need revision:none type:bark
+---
+Player: I doubt satisfying one's hunger using a lethal paralytic mushroom is a good idea.
+===
+
+title: removeTreeTooEarly
+tags: voice:need revision:none type:bark
+---
+Player: It looks like I am on the right path, but something is still missing. The fae still is not strong enough to fight off the trees.
+===
+
 title: failSimonSay
 tags: voice:need revision:none type:bark
 ---
