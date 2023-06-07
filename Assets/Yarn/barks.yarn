@@ -553,4 +553,14 @@ Player: Laundry fae, like all fae, are highly capricious. They are just as likel
 Player: They are so fickle that it is debatable whether they are actually sentient. #line:0e303c6 
 ===
 
+title: obedientFire
+tags: voice:need revision:none type:bark
+---
+Player: Good, those grimoires have been burnt down to ashes! Ashes which I now need to clean...
+===
 
+title: obedientClean
+tags: voice:need revision:none type:bark
+---
+Player: A perfect clean spell. This book is quite convenient. I need to regrow the grass now.
+===
