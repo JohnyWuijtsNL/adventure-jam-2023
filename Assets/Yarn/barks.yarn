@@ -67,7 +67,7 @@ Player: I can use the jam now! #line:08a4310
 title: wood
 tags: voice:need revision:none type:bark
 ---
-<<if notvisited("wood")>>
+<<if not visited("wood")>>
   Player: A pile of firewood. #line:0bee447 
 <<else>>
   Player: This wood would probably burn well, if I can find a flame to get the fire started. #line:0cfd225 
@@ -77,7 +77,7 @@ tags: voice:need revision:none type:bark
 title: roastedCorpse
 tags: voice:need revision:none type:bark
 ---
-<<if notvisited("roastedAnimal")>>
+<<if not visited("roastedAnimal")>>
   Player: Some poor soul got properly roasted here. #line:0541358 
 <<else>>
   Player: I suppose this is technically edible, but I would have to be in a disastrous situation to even consider it. #line:0bbe776 
@@ -87,7 +87,7 @@ tags: voice:need revision:none type:bark
 title: dialPuzzle
 tags: voice:need revision:none type:bark
 ---
-<<if notvisited("dialPuzzle")>>
+<<if not visited("dialPuzzle")>>
   Player: This looks like some sort of mechanism. #line:0b962ba 
 <<else>>
   Player: The instrument drawings are probably tied to the music I hear. Maybe I need to cover some, or all of the them? #line:0744761 
@@ -97,7 +97,7 @@ tags: voice:need revision:none type:bark
 title: paralyticMushroom
 tags: voice:need revision:none type:bark
 ---
-<<if notvisited("paralyticMushroom")>>
+<<if not visited("paralyticMushroom")>>
   Player: Apparently, this species of paralytic mushrooms lives in symbiosis with blood trees. #line:0acd16d 
 <<else>>
   Player: I have read in a symbolism book that stillness is the opposite of birth and creation. Interesting symbiosis for a tree born from death. #line:0c154e0 
@@ -107,7 +107,7 @@ tags: voice:need revision:none type:bark
 title: wordFoxglove
 tags: voice:need revision:none type:bark
 ---
-<<if notvisited("wordFoxglove")>>
+<<if not visited("wordFoxglove")>>
   Player: Foxglove. #line:0bc36af 
 <<else>>
   Player: Maybe there's somewhere I can use that to make foxglove grow? #line:00d4d78 
@@ -117,7 +117,7 @@ tags: voice:need revision:none type:bark
 title: jarOfJam
 tags: voice:need revision:none type:bark
 ---
-<<if notvisited("jarOfJam")>>
+<<if not visited("jarOfJam")>>
   Player: A jar of jam. The lid is stuck. #line:086484a 
 <<else>>
   Player: The lid of that thing is not moving. I need to find another way to open it if I have need for the jam. #line:037876d 
@@ -127,7 +127,7 @@ tags: voice:need revision:none type:bark
 title: carrots
 tags: voice:need revision:none type:bark
 ---
-<<if notvisited("carrots")>>
+<<if not visited("carrots")>>
   Player: A bunch of carrot. #line:0416a67 
 <<else>>
   Player: I do not see any other use for carrots than eating them. #line:0b50eaa 
@@ -137,7 +137,7 @@ tags: voice:need revision:none type:bark
 title: wordHeather
 tags: voice:need revision:none type:bark
 ---
-<<if notvisited("wordHeather")>>
+<<if not visited("wordHeather")>>
   Player: Heather. #line:0bd7ade 
 <<else>>
   Player: Maybe there's somewhere I can use that to make heather grow? #line:0005ca5 
@@ -147,7 +147,7 @@ tags: voice:need revision:none type:bark
 title: wordHawthorn
 tags: voice:need revision:none type:bark
 ---
-<<if notvisited("wordHawthorn")>>
+<<if not visited("wordHawthorn")>>
   Player: Hawthorn. #line:0c9505c 
 <<else>>
   Player: Maybe there's somewhere I can use that to make hawthorn grow? #line:07f73c8 
@@ -157,7 +157,7 @@ tags: voice:need revision:none type:bark
 title: hawthornBerries
 tags: voice:need revision:none type:bark
 ---
-<<if notvisited("hawthornBerries")>>
+<<if not visited("hawthornBerries")>>
   Player: These look like hawthorn berries #line:013d4af 
 <<else>>
   Player: I think hawthorn berries make great jam, but it is not everyone's jam. #line:01c14b4 
@@ -167,7 +167,7 @@ tags: voice:need revision:none type:bark
 title: fabric
 tags: voice:need revision:none type:bark
 ---
-<<if notvisited("fabric")>>
+<<if not visited("fabric")>>
   Player: This fabric looks pretty plain, I expected it to have something special... #line:02e6136 
 <<else>>
   Player: I could maybe make clothes with this, or curtains or something. Or I could just burn it, hahaha. #line:0557498 
@@ -177,7 +177,7 @@ tags: voice:need revision:none type:bark
 title: wordPetals
 tags: voice:need revision:none type:bark
 ---
-<<if notvisited("wordPetals")>>
+<<if not visited("wordPetals")>>
   Player: Petals. #line:040f811 
 <<else>>
   Player: Maybe I can swap that with other words? #line:03d968f 
@@ -187,7 +187,7 @@ tags: voice:need revision:none type:bark
 title: honey
 tags: voice:need revision:none type:bark
 ---
-<<if notvisited("honey")>>
+<<if not visited("honey")>>
   Player: Awesome, I just created honey! #line:0e7c8d3 
 <<else>>
   Player: I love honey, I could eat it by the spoon. #line:0c8c900 
@@ -197,7 +197,7 @@ tags: voice:need revision:none type:bark
 title: yew
 tags: voice:need revision:none type:bark
 ---
-<<if notvisited("yew")>>
+<<if not visited("yew")>>
   Player: A yew tree. #line:038d193 
 <<else>>
   Player: From what I have read, water based fae hate trees. #line:066465d 
@@ -207,7 +207,7 @@ tags: voice:need revision:none type:bark
 title: oak
 tags: voice:need revision:none type:bark
 ---
-<<if notvisited("oak")>>
+<<if not visited("oak")>>
   Player: An oak tree. #line:04ba94a 
 <<else>>
   Player: Oaks are usually majestic, it is funny to see a tiny one like this. #line:0f00eae 
@@ -217,7 +217,7 @@ tags: voice:need revision:none type:bark
 title: birch
 tags: voice:need revision:none type:bark
 ---
-<<if notvisited("birch")>>
+<<if not visited("birch")>>
   Player: A birch tree. #line:0d98fe2 
 <<else>>
   Player: From what I have read, water based fae hate trees. #line:0242e84 
@@ -227,7 +227,7 @@ tags: voice:need revision:none type:bark
 title: foxglove
 tags: voice:need revision:none type:bark
 ---
-<<if notvisited("foxglove")>>
+<<if not visited("foxglove")>>
   Player: Foxglove flowers are so beautiful. #line:0219e9a 
 <<else>>
   Player: I hope I don't get poisoned by manipulating this, considering how lethal foxglove is. #line:00e497f 
@@ -237,7 +237,7 @@ tags: voice:need revision:none type:bark
 title: spindle
 tags: voice:need revision:none type:bark
 ---
-<<if notvisited("spindle")>>
+<<if not visited("spindle")>>
   Player: A spindle to spin yarn into the thread of life. #line:0003b51 
 <<else>>
   Player: This spindle looks particularly sharp, for a wooden spindle. #line:024aaa1 
@@ -247,7 +247,7 @@ tags: voice:need revision:none type:bark
 title: bloodDrop
 tags: voice:need revision:none type:bark
 ---
-<<if notvisited("bloodDrop")>>
+<<if not visited("bloodDrop")>>
   Player: A drop of my blood. #line:019a3c7 
 <<else>>
   Player: Would it be a good idea to feed this to the blood tree? #line:0bd0588 
@@ -257,7 +257,7 @@ tags: voice:need revision:none type:bark
 title: oilLamp
 tags: voice:need revision:need type:bark
 ---
-<<if notvisited("oilLamp") or not $sealedFireDemon>>
+<<if not visited("oilLamp") or not $sealedFireDemon>>
   Player: An oil lamp, steady companion in the dark of the night. #line:0c62e5d 
 <<else>>
   Player: I wonder if the oil in there it would work to counter water runes. #line:0f7e99e 
@@ -267,7 +267,7 @@ tags: voice:need revision:need type:bark
 title: wordHoney
 tags: voice:need revision:none type:bark
 ---
-<<if notvisited("wordHoney")or$pickedUpItemHoney>>
+<<if not visited("wordHoney") or $pickedUpItemHoney>>
   Player: Honey. #line:07269bc 
 <<elseif $wordHoneyInFoodDescription>>
   Player: Oh good, some honey just appeared! #line:0a2fe2c 
@@ -279,7 +279,7 @@ tags: voice:need revision:none type:bark
 title: weavingLoom
 tags: voice:need revision:none type:bark
 ---
-<<if notvisited("weavingLoom")>>
+<<if not visited("weavingLoom")>>
   Player: My uncle used to have a weaving loom like this one. Was it fae-made? #line:022de0f 
 <<elseif $weavedThreads==0>>
   Player: If I had some thread, I could use this loom to make fabric. #line:07b7bc4 
@@ -404,10 +404,40 @@ tags: voice:need revision:none type:bark
 Player: Laguz: water, fluidity, life. #line:06219c6 
 ===
 
-title: Othala
+title: othala
 tags: voice:need revision:none type:bark
 ---
 Player: Othala is heritage, property, or nobility. #line:015e8d2 
+===
+
+title: uruzPlusWood
+tags: voice:need revision:none type:bark
+---
+Player: I do not think wet wood would help. #line:02a0085 
+===
+
+title: naudhizPlusHumanBabyOrCrow
+tags: voice:need revision:none type:bark
+---
+Player: I think that would be pushing the limits of what human consider to be food. #line:0539e77 
+===
+
+title: naudhizPlusHawthornBerries
+tags: voice:need revision:none type:bark
+---
+Player: This feels like a terrible idea, if domestic trolls are allergic to hawthorn berries... #line:05c01c8 
+===
+
+title: naudhizPlusParalyticMushroom
+tags: voice:need revision:none type:bark
+---
+Player: I doubt satisfying one's hunger using a lethal paralytic mushroom is a good idea. #line:050a568 
+===
+
+title: removeTreeTooEarly
+tags: voice:need revision:none type:bark
+---
+Player: It looks like I am on the right path, but something is still missing. The fae still is not strong enough to fight off the trees. #line:0645045 
 ===
 
 title: failSimonSay
@@ -415,3 +445,112 @@ tags: voice:need revision:none type:bark
 ---
 Player: Oh crikey! It looks like I need to follow the pattern in which the runes light up perfectly to counteract the chaos. #line:03320e8 
 ===
+
+title: fireDemonPageText1
+tags: voice:need revision:none type:bark
+---
+Player: Fire demons exist as sentient and autonomous flames. #line:0f9d68d 
+Player: They seek existing fires to possess, as their self-sufficiency is limited and they draw their power from a flame’s heat. #line:0d4b55d 
+===
+
+title: fireDemonPageText2
+tags: voice:need revision:none type:bark
+---
+Player: Fire demons have been known to agree to deals with humans, most often in smithies and kitchens. #line:02aa25f 
+Player: They promise to maintain a constant fire in exchange for fuel and protected fire pits. #line:075ec36 
+Player: However, many such a deal have ended in tragedy and fire demons should be considered highly unreliable. #line:06bf78a 
+===
+
+title: fireDemonPageText3
+tags: voice:need revision:none type:bark
+---
+Player: Above all, fire demons seek power: they will drive fires out of control to grow in strength, and will not stop until they have burnt everything within their reach. #line:08caf45 
+===
+
+title: fireDemonPageText4
+tags: voice:need revision:none type:bark
+---
+Player: If one comes across the remains of a fire-demon-fuelled flame, one might want to take the take to collect its ashes. #line:08ae6e0 
+Player: Prepared properly, they can make for uncommonly powerful ink to draw magical runes. #line:0b54b95 
+===
+
+title: bloodTreePageText1
+tags: voice:need revision:none type:bark
+---
+Player: Blood trees are incredibly interesting specimens, from a magical theory point of view. #line:0a99a0d 
+Player: Born from the seed of an orchard tree sown into a bloodied battlefield blood, they do not have much to do with their parental tree, except from the fact that they bear fruits. #line:06b1218 
+Player: While they are usually classified as a flesh-eating plant species, it would be more accurate to consider them blood-eating, as they suck their preys dry of blood and leave their corpses to rot between their roots. #line:081f637 
+===
+
+title: bloodTreePageText2
+tags: voice:need revision:none type:bark
+---
+Player: Many have theorised that blood trees own their sentience to the souls of those who died on their battlefield, explaining their antisocial and aggressive nature. #line:0cbb091 
+Player: Blood trees do not understand joy, companionship or the concept of freely given gifts. They exist in a never-ending expanse of hatred. #line:065fddc 
+===
+
+title: bloodTreePageText3
+tags: voice:need revision:none type:bark
+---
+Player: Their fruits have the very alluring property of making the eater’s most fervent wish come true. #line:03eef57 
+Player:This comes at a terrible cost : people who consume a blood fruit fall under the control of its mother tree. #line:0fdba27 
+Player: One day, one month, one year later, they will enter a trance and make their way back to the tree, and die in its embrace. #line:090de61 
+===
+
+title: bloodTreePageText4
+tags: voice:need revision:none type:bark
+---
+Player: Blood trees have a symbiotic relationship with a rare species of mushroom with paralytic properties. #line:0b70cae 
+Player: Ingestion, and sometimes mere contact, is enough to deaden all of its victim’s muscles. #line:0e9376b 
+===
+
+title: domesticTrollPageText1
+tags: voice:need revision:none type:bark
+---
+Player: Domestic trolls used to infest human homes. #line:08990ec 
+Player: They were rarely seen, and ingratiated themselves to their human hosts by discreetly helping with domestic tasks, from cleaning the hearth to darning socks. #line:0402bbe 
+===
+
+title: domesticTrollPageText2
+tags: voice:need revision:none type:bark
+---
+Player: According to tradition, humans are supposed to reward their domestic troll with food. #line:07e82cd 
+Player: The creatures’ diet were very similar to humans’, though they required far less food than us to survive. #line:0876827 
+===
+
+title: domesticTrollPageText3
+tags: voice:need revision:none type:bark
+---
+Player: Despite their apparent helpfulness, domestic trolls are treacherous pests, as more than one unsuspecting family has had to bear the consequences of. #line:01c2051 
+Player: Their extremely controlling nature and their general aversion to change has resulted in more than one tragedy, such as families being locked into their houses for weeks on end by the beasts, or newborns being disposed of with the rubbish. #line:0179495 
+===
+
+title: domesticTrollPageText4
+tags: voice:need revision:none type:bark
+---
+Player: Contrary to popular belief, domestic trolls had not issue with heather bushes, so planting some around one’s house was not an effective way to dissuade them from moving in. #line:0262d80 
+Player: Hawthorn, on the other hand, seemed to have more favourable results, probably because its berries were highly poisonous to the trolls. #line:05fb664 
+===
+
+title: laundryFaePageText1
+tags: voice:need revision:none type:bark
+---
+Player: Laundry fae are water-based fae that are most often sighted on river-sides washing clothes. #line:06f9b99 
+Player: They seem to attach a lot of importance to clothing, and fabric and general, though they are not willing to explain why. #line:0f2f566 
+===
+
+title: laundryFaePageText2
+tags: voice:need revision:none type:bark
+---
+Player: They lure humans in, men and women alike, with their terribly beautiful appearances and their haunting singing voices. #line:0e8542e 
+Player: Verily, scholars are not sure those fae have males and females individuals, as they all appear very attractive to whoever crosses their path. #line:096420d 
+===
+
+title: laundryFaePageText3
+tags: voice:need revision:none type:bark
+---
+Player: Laundry fae, like all fae, are highly capricious. They are just as likely to send you off with a gift than to drown you in their rivers. #line:07a38b2 
+Player: They are so fickle that it is debatable whether they are actually sentient. #line:0e303c6 
+===
+
+
