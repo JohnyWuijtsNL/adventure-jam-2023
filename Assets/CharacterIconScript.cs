@@ -40,7 +40,6 @@ public class CharacterIconScript : MonoBehaviour
 
         }
 
-        Debug.Log(dialogueRunner.Dialogue.LineHandler);
 
         image.color = new Color(1, 1, 1, canvasGroup.alpha);
 
