@@ -502,6 +502,7 @@ tags: voice:need revision:none type:bark
 ---
 Player: Blood trees have a symbiotic relationship with a rare species of mushroom with paralytic properties. #line:0b70cae 
 Player: Ingestion, and sometimes mere contact, is enough to deaden all of its victim’s muscles. #line:0e9376b 
+Player: Their honey is also highly toxic, as deadly as foxglove.
 ===
 
 title: domesticTrollPageText1
@@ -553,4 +554,64 @@ Player: Laundry fae, like all fae, are highly capricious. They are just as likel
 Player: They are so fickle that it is debatable whether they are actually sentient. #line:0e303c6 
 ===
 
+title: obedientFire
+tags: voice:need revision:none type:bark
+---
+Player: Good, those grimoires have been burnt down to ashes! Ashes which I now need to clean... #line:054a550 
+===
 
+title: obedientClean
+tags: voice:need revision:none type:bark
+---
+Player: A perfect clean spell. This book is quite convenient. I need to regrow the grass now. #line:0dc8906 
+===
+
+title: incantationFireDemon
+tags: voice:need revision:none type:bark
+---
+Player: Brand in vlammen op, mijn vuur. #line:0125c94 
+===
+
+title: incantationDomesticTroll
+tags: voice:need revision:none type:bark
+---
+Player: Viezigheid verdwijn, spik en span huis. #line:0d7fc7b 
+===
+
+title: incantationBloodTree
+tags: voice:need revision:none type:bark
+---
+Player: Kruipen in deze geest, ik neem controle. #line:0cac982 
+===
+
+title: incantationLaundryFae
+tags: voice:need revision:none type:bark
+---
+Player: Als een roos, als een dauwdruppel, als een zeepaardje, mooi. #line:0a0a5b0 
+===
+
+title: incantationThreeAndOne
+tags: voice:need revision:none type:bark
+---
+Player: Zaadjes bloeien en harten kloppen. #line:06807ec 
+===
+
+title: threeAndOnePageText1
+tags: voice:need revision:none type:bark
+---
+Player: The Three-and-one is a triadic creature that takes the appearance of three women, controlling aspects of the past, creation, and birth for the left-most one, the present, and life for the middle-one, the future, destruction and death for the right-most one. #line:0372751 
+===
+
+title: threeAndOnePageText2
+tags: voice:need revision:none type:bark
+---
+Player: The Three-and-one has been the topic of heated debates for many centuries, as some scholars believe it is a unique creature, while others claim there is an entire species of them. #line:03172bb 
+Player: Indeed, the Three-and-one have been seen in many different places, but never twice in the same place, and according to existing records never in two different places at once. #line:0f1b252 
+===
+
+title: threeAndOnePageText3
+tags: voice:need revision:none type:bark
+---
+Player: In our lands, the Three-and-One preferred tools seem to be a spindle to process yarn, a ruler to measure thread, and a pair of scissors to cut the thread. But different cultures have represented them in various ways. #line:068e2cb 
+Player: The middle figure is supposedly keeping watch over the world through the eyes of crows. #line:03f2ab4 
+===
