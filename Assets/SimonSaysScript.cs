@@ -10,11 +10,13 @@ public class SimonSaysScript : MonoBehaviour
     int sequenceLength = 3;
     float sequenceDelay = 1.3f;
     int currentRune;
+    [SerializeField] SpriteRenderer[] lights;
+    int currentLight = 0;
     // Start is called before the first frame update
     void Start()
     {
         sequence = new int[sequenceLength];
-        for (int i = 0; i <= sequenceLength; i++)
+        for (int i = 0; i < sequenceLength; i++)
         {
             sequence[i] = Random.Range(0, chaosRunes.Length);
         }
@@ -68,19 +70,23 @@ public class SimonSaysScript : MonoBehaviour
 
                 sequenceLength++;
                 sequence = new int[sequenceLength];
-                for (int i = 0; i <= sequenceLength; i++)
+                for (int i = 0; i < sequenceLength; i++)
                 {
                     sequence[i] = Random.Range(0, chaosRunes.Length);
                 }
 
-                
+                lights[currentLight].color = new Color(0, 1, 0, 1);
+                currentLight++;
             }
         }
         else
         {
             sequenceDelay = 3;
+            sequenceLength = 3;
+            sequence = new int[sequenceLength];
             isPlaying = false;
             currentRune = 0;
+            currentLight = 0;
             foreach (var chaosRune in chaosRunes)
             {
                 chaosRune.clickable = false;
@@ -88,7 +94,12 @@ public class SimonSaysScript : MonoBehaviour
                 chaosRune.glowNumber = Mathf.PI * 0.5f;
             }
 
-            for (int i = 0; i <= sequenceLength; i++)
+            foreach (var light in lights)
+            {
+                light.color = new Color(0.25f, 0.25f, 0.25f, 1);
+            }
+
+            for (int i = 0; i < sequenceLength; i++)
             {
                 sequence[i] = Random.Range(0, chaosRunes.Length);
             }

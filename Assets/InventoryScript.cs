@@ -1,13 +1,17 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Yarn.Unity;
 
 public class InventoryScript : MonoBehaviour
 {
-    [SerializeField] SpriteRenderer[] slots;
-    public Sprite[] sprites;
+    public SpriteRenderer[] slots;
+    [SerializeField] GameObject[] items;
+    [SerializeField] GameManager gameManager;
     int[] spriteIDs;
     int currentSlot = 0;
+
+    [SerializeField] DialogueViewBase dialogueViewBase;
     // Start is called before the first frame update
     void Start()
     {
@@ -17,24 +21,16 @@ public class InventoryScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
-    }
-
-    public void AddItem(int itemID)
-    {
-        slots[currentSlot].sprite = sprites[itemID];
-        spriteIDs[currentSlot] = itemID;
-        currentSlot++;
-    }
-
-    public int RemoveItem()
-    {
-        if (currentSlot == 0)
+        foreach (var item in items)
         {
-            return -1;
+            if ((item.GetComponent<ItemScript>().activePage == gameManager.currentPage || item.GetComponent<ItemScript>().activePage == -1) && item.GetComponent<ItemScript>().isUnlocked)
+            {
+                item.SetActive(true);
+            }
+            else
+            {
+                item.SetActive(false);
+            }
         }
-        currentSlot--;
-        slots[currentSlot].sprite = null;
-        return spriteIDs[currentSlot];
     }
 }

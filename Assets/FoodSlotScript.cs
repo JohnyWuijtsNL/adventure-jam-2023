@@ -22,12 +22,6 @@ public class FoodSlotScript : MonoBehaviour
     {
         if (!isFilled)
         {
-            int temp = inventoryScript.RemoveItem();
-            if (temp != -1)
-            {
-                isFilled = true;
-                GetComponent<SpriteRenderer>().sprite = inventoryScript.sprites[temp];
-            }
             
         }
         

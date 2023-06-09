@@ -6,11 +6,20 @@ public class BookmarkScript : MonoBehaviour
 {
     [SerializeField] int bookmarkNumber;
     [SerializeField] BookmarksScript bookmarksScript;
+    GameManager gameManager;
     public bool isLeft = false;
+
+    private void Start()
+    {
+        gameManager = FindAnyObjectByType<GameManager>();
+    }
 
     private void OnMouseDown()
     {
-        bookmarksScript.BookmarkClicked(bookmarkNumber);
+        if (gameManager.canInteract)
+        {
+            bookmarksScript.BookmarkClicked(bookmarkNumber);
+        }
     }
 
 }

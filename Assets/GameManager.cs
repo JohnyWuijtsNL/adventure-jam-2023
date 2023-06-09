@@ -8,6 +8,7 @@ public class GameManager : MonoBehaviour
     [SerializeField] GameObject[] book;
     public bool canInteract = false;
     [SerializeField] DialogueRunner dialogueRunner;
+    public int currentPage;
 
 
     // Start is called before the first frame update
@@ -29,13 +30,17 @@ public class GameManager : MonoBehaviour
             page.SetActive(false);
         }
         book[pageNumber].SetActive(true);
-        canInteract = true;
+        currentPage = pageNumber;
     }
 
     public void RunDialogue(string dialogue)
     {
         dialogueRunner.StartDialogue(dialogue);
-        canInteract = false;
+    }
+
+    public void SetCanInteract(bool canInteract)
+    {
+        this.canInteract = canInteract;
     }
 
 }

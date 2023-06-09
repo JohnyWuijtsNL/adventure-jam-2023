@@ -12,10 +12,45 @@ ScriptedImporter:
   - {fileID: 6391573757903218779, guid: 95452f820f1fff840ad84ab8e1a02294, type: 3}
   - {fileID: 6391573757903218779, guid: d3ecd14aa7d168052adf57c681214d26, type: 3}
   compileErrors: []
-  serializedDeclarations: []
+  serializedDeclarations:
+  - name: $sealedFireDemon
+    typeName: Bool
+    defaultValueBool: 0
+    defaultValueNumber: 0
+    defaultValueString: 
+    description: Implicitly declared in barks.yarn, node oilLamp
+    isImplicit: 1
+    sourceYarnAsset: {fileID: 6391573757903218779, guid: d3ecd14aa7d168052adf57c681214d26, type: 3}
+  - name: $pickedUpItemHoney
+    typeName: Bool
+    defaultValueBool: 0
+    defaultValueNumber: 0
+    defaultValueString: 
+    description: Implicitly declared in barks.yarn, node wordHoney
+    isImplicit: 1
+    sourceYarnAsset: {fileID: 6391573757903218779, guid: d3ecd14aa7d168052adf57c681214d26, type: 3}
+  - name: $wordHoneyInFoodDescription
+    typeName: Bool
+    defaultValueBool: 0
+    defaultValueNumber: 0
+    defaultValueString: 
+    description: Implicitly declared in barks.yarn, node wordHoney
+    isImplicit: 1
+    sourceYarnAsset: {fileID: 6391573757903218779, guid: d3ecd14aa7d168052adf57c681214d26, type: 3}
+  - name: $weavedThreads
+    typeName: Number
+    defaultValueBool: 0
+    defaultValueNumber: 0
+    defaultValueString: 
+    description: Implicitly declared in barks.yarn, node weavingLoom
+    isImplicit: 1
+    sourceYarnAsset: {fileID: 6391573757903218779, guid: d3ecd14aa7d168052adf57c681214d26, type: 3}
   defaultLanguage: en-US
-  languagesToSourceAssets: []
-  useAddressableAssets: 0
+  languagesToSourceAssets:
+  - languageID: en
+    stringsFile: {fileID: 6391573757903218779, guid: 95452f820f1fff840ad84ab8e1a02294, type: 3}
+    assetsFolder: {fileID: 102900000, guid: 0076e5c3e6ff08a4b8c11f0e996d4ae0, type: 3}
+  useAddressableAssets: 1
   searchAllAssembliesForActions: 1
   assembliesToSearch: []
   ListOfFunctions:

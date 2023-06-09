@@ -18,7 +18,7 @@ public class OilCanScript : MonoBehaviour
     {
         if (isDragging)
         {
-            Debug.Log(100 / Screen.width * Input.mousePosition.x);
+            //Debug.Log(100 / Screen.width * Input.mousePosition.x);
             transform.position = (Input.mousePosition) / (Screen.width / 19.2f) - initialMousePosition;
             if (transform.localPosition.x > 4.35f)
             {
