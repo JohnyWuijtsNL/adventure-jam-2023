@@ -1,0 +1,88 @@
+fileFormatVersion: 2
+guid: 64ed990978ded484e90e04af4207f70a
+ScriptedImporter:
+  internalIDToNameTable:
+  - first:
+      114: 11400000
+    second: Program
+  - first:
+      41386430: 2186277476908879412
+    second: ImportLogs
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 053561912b1654d80a424bb0696a74ae, type: 3}
+  sourceScripts:
+  - {fileID: 6391573757903218779, guid: a5a133a5d7697ec4e8e3d3f53294d53c, type: 3}
+  compileErrors: []
+  serializedDeclarations:
+  - name: $knows_anne_name
+    typeName: Bool
+    defaultValueBool: 0
+    defaultValueNumber: 0
+    defaultValueString: 
+    description: Does Tom know the name of the person he's talking to?
+    isImplicit: 0
+    sourceYarnAsset: {fileID: 6391573757903218779, guid: a5a133a5d7697ec4e8e3d3f53294d53c, type: 3}
+  defaultLanguage: en-AU
+  languagesToSourceAssets:
+  - languageID: en-AU
+    stringsFile: {instanceID: 0}
+    assetsFolder: {fileID: 102900000, guid: ba715a1a2236a034a85ac6c099d9cfbd, type: 3}
+  - languageID: es
+    stringsFile: {fileID: 4900000, guid: 7115b72e50b744add8dc487c684bcbe7, type: 3}
+    assetsFolder: {instanceID: 0}
+  useAddressableAssets: 0
+  searchAllAssembliesForActions: 1
+  assembliesToSearch: []
+  ListOfFunctions:
+  - Name: Random
+    ReturnType: -> Single
+    Parameters: []
+  - Name: RandomRange
+    ReturnType: -> Single
+    Parameters:
+    - minInclusive
+    - maxInclusive
+  - Name: Dice
+    ReturnType: -> Int32
+    Parameters:
+    - sides
+  - Name: Round
+    ReturnType: -> Int32
+    Parameters:
+    - num
+  - Name: RoundPlaces
+    ReturnType: -> Single
+    Parameters:
+    - num
+    - places
+  - Name: Floor
+    ReturnType: -> Int32
+    Parameters:
+    - num
+  - Name: Ceil
+    ReturnType: -> Int32
+    Parameters:
+    - num
+  - Name: Inc
+    ReturnType: -> Int32
+    Parameters:
+    - num
+  - Name: Dec
+    ReturnType: -> Int32
+    Parameters:
+    - num
+  - Name: Decimal
+    ReturnType: -> Single
+    Parameters:
+    - num
+  - Name: Int
+    ReturnType: -> Int32
+    Parameters:
+    - num
+  - Name: CoolFunction
+    ReturnType: -> Int32
+    Parameters: []

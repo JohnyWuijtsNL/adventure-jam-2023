@@ -17,144 +17,140 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: a9723ecec2bcb6b4aae7d0166d1affeb
   m_SerializeEntries:
-  - m_GUID: e3170f1545fd192448966c8cfd224240
-    m_Address: Assets/Yarn/Project.yarnproject
-    m_ReadOnly: 0
-    m_SerializedLabels: []
   - m_GUID: 26fa52b831c14997181bc7c87b03ff52
-    m_Address: line_en_067ae7f
+    m_Address: line_en-US_067ae7f
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: 3d227e419cb2bae719a55b63932e3613
-    m_Address: line_en_0f96668
+    m_Address: line_en-US_0f96668
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: b4a2cba759278e295a1ace6323d2ba27
-    m_Address: line_en_0a40fb3
+    m_Address: line_en-US_0a40fb3
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: caaa99a14f14c409f97412ff382ae3c5
-    m_Address: line_en_058ec34
+    m_Address: line_en-US_058ec34
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: 3f092f96f14fc848ab8e99cdb39b029c
-    m_Address: line_en_087a09e
+    m_Address: line_en-US_087a09e
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: e2a1d0d0e9cfe4bc5963881c6e6688da
-    m_Address: line_en_0d12b94
+    m_Address: line_en-US_0d12b94
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: 4102d0d821eeebfcc9300665668876b5
-    m_Address: line_en_0122312
+    m_Address: line_en-US_0122312
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: 902f3f5885ca468d7a06a22a365c906d
-    m_Address: line_en_0df565f
+    m_Address: line_en-US_0df565f
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: 6b5d9cabcb752e894b6b1b2eeb6b90ee
-    m_Address: line_en_058832b
+    m_Address: line_en-US_058832b
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: f7727689d3a7aeafd90103a2ffad0455
-    m_Address: line_en_0407349
+    m_Address: line_en-US_0407349
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: c7fafbc114a3d6b3fac8297aec0cec98
-    m_Address: line_en_0ff3adc
+    m_Address: line_en-US_0ff3adc
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: 7f35db4ffc4ef2d5f83a137f43805f4a
-    m_Address: line_en_04740c1
+    m_Address: line_en-US_04740c1
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: 76d10e36740a55cabb5ecdfe2da1305b
-    m_Address: line_en_0b093f0
+    m_Address: line_en-US_0b093f0
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: 597a3fd3fe9d024628f667364e0e8083
-    m_Address: line_en_0385f4f
+    m_Address: line_en-US_0385f4f
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: 5d5d70382253aaa5f8377333697819fe
-    m_Address: line_en_06b8e54
+    m_Address: line_en-US_06b8e54
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: e5fbed9ea240378388f65cb6f7d1c204
-    m_Address: line_en_0a412d8
+    m_Address: line_en-US_0a412d8
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: 504b229739a305b3293d67b45466f504
-    m_Address: line_en_01be8bb
+    m_Address: line_en-US_01be8bb
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: 315c138c78a77247886db94fb212aca1
-    m_Address: line_en_0d36a60
+    m_Address: line_en-US_0d36a60
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: 0322b66d227fd37d38326cfd3a76eb27
-    m_Address: line_en_0b38f41
+    m_Address: line_en-US_0b38f41
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: 607e3e6037af6517db7f775b6641fc41
-    m_Address: line_en_0c90d76
+    m_Address: line_en-US_0c90d76
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: e9e0e8fb309a87783902451d7a6a716b
-    m_Address: line_en_01b5a04
+    m_Address: line_en-US_01b5a04
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: 069e8c7a73b43d3c28bf9884ea6d09dd
-    m_Address: line_en_032d2f9
+    m_Address: line_en-US_032d2f9
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: 7d071bc20735f8690bcec9b6882ca40d
-    m_Address: line_en_01cdc76
+    m_Address: line_en-US_01cdc76
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: 23af771c67f69bcb286f35b59542b387
-    m_Address: line_en_0c3445f
+    m_Address: line_en-US_0c3445f
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: c36659c5b6cd9231093682937eed0a27
-    m_Address: line_en_0d76cd1
+    m_Address: line_en-US_0d76cd1
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: e972ad776cee22b9eba65571ed4bd819
-    m_Address: line_en_02afd94
+    m_Address: line_en-US_02afd94
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: 6a79dc7374b151bb1829da70eedfa7bf
-    m_Address: line_en_02b337d
+    m_Address: line_en-US_02b337d
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: 661bb4dfa0dc7f5cc8037cb2829c5caa
-    m_Address: line_en_0bbd7fd
+    m_Address: line_en-US_0bbd7fd
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: 79d95aa045e914170a38013636a8817e
-    m_Address: line_en_0c0e616
+    m_Address: line_en-US_0c0e616
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: 4edd8a4326bf767dc810ca4c34199880
-    m_Address: line_en_0a28153
+    m_Address: line_en-US_0a28153
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: 116007ccba57b8135a00150c157ebe85
-    m_Address: line_en_0e03ad1
+    m_Address: line_en-US_0e03ad1
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: 5cda2bdd029ed800daaa5b32cfc8bc4e
-    m_Address: line_en_02d3f12
+    m_Address: line_en-US_02d3f12
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: cce45825b926d895eabcca1dafb4262b
-    m_Address: line_en_07786ac
+    m_Address: line_en-US_07786ac
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: b6e741c579376ecfcaaff1cb5bfc8fc9
-    m_Address: line_en_0a89974
+    m_Address: line_en-US_0a89974
     m_ReadOnly: 0
     m_SerializedLabels: []
   m_ReadOnly: 0

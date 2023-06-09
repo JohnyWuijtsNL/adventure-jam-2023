@@ -47,7 +47,7 @@ ScriptedImporter:
     sourceYarnAsset: {fileID: 6391573757903218779, guid: d3ecd14aa7d168052adf57c681214d26, type: 3}
   defaultLanguage: en-US
   languagesToSourceAssets:
-  - languageID: en
+  - languageID: en-US
     stringsFile: {fileID: 6391573757903218779, guid: 95452f820f1fff840ad84ab8e1a02294, type: 3}
     assetsFolder: {fileID: 102900000, guid: 0076e5c3e6ff08a4b8c11f0e996d4ae0, type: 3}
   useAddressableAssets: 1
