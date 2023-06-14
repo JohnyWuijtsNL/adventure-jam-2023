@@ -133,6 +133,11 @@ public class ItemScript : MonoBehaviour
             }
             
         }
+        else if (collision.CompareTag("loom") && itemID == "thread")
+        {
+            isUnlocked = false;
+            collision.gameObject.GetComponent<LoomScript>().stringCount++;
+        }
     }
 
     private void OnTriggerExit2D(Collider2D collision)

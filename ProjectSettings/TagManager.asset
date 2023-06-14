@@ -6,6 +6,7 @@ TagManager:
   tags:
   - oil
   - slot
+  - loom
   layers:
   - Default
   - TransparentFX
